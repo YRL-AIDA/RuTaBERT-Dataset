@@ -13,7 +13,7 @@
 using namespace rapidjson;
 
 
-const std::string SEP = "|";
+const std::string SEP = "⇧";
 
 
 void create_files_list(std::vector<std::string> & file_names)
@@ -24,7 +24,7 @@ void create_files_list(std::vector<std::string> & file_names)
 	 * Результат в векторе file_names. Последовательная ф-ция
 	 */
 	
-	std::string path = "../dataset/Dataset/data";
+	std::string path = "dataset/Dataset/data";
 
 	std::vector<std::string> dir_names;
     for (const auto & dir_name : std::filesystem::directory_iterator(path)) {
@@ -118,6 +118,7 @@ void thread_function(const std::vector<std::string> & files_list)
 	std::cout << "thread_id: " << thread_id << " / done" << std::endl;
 
 	std::ofstream out("./columns/out_" + std::to_string(thread_id) + ".csv");
+	out << "table_id" + SEP + "column_id" + SEP + "column_name" << std::endl;
 	for (auto i : rows) {
 		out << i << std::endl;
 	}
