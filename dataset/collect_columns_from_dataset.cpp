@@ -39,6 +39,8 @@ void create_files_list(std::vector<std::string> & file_names)
 		dir_names.push_back(dir_name.path().string());
    	}
 
+	// TODO: if file exists
+	std::ofstream out("filenames");
    	for (auto dir_name : dir_names) {
 		for (const auto & file : std::filesystem::directory_iterator(dir_name)) {
 			std::string file_name = file.path().string();
@@ -50,9 +52,13 @@ void create_files_list(std::vector<std::string> & file_names)
 
 			if (is_table_meta_info) {
 				file_names.push_back(file_name);
+
+				// save to file for optimization
+				out << file_name << std::endl;
 			}
 	   	}
    	}
+   	out.close();
 }
 
 
@@ -75,7 +81,7 @@ void thread_function(const std::vector<std::string> & files_list)
 
 		// Parse json file
 		FILE * fp = fopen(file_name.c_str(), "r");
-		char readBuffer[65536];
+		char readBuffer[65536]; // TODO: decrease buffer size, its too big
 		rapidjson::FileReadStream is(
 			fp,
 			readBuffer,
@@ -129,7 +135,18 @@ void thread_function(const std::vector<std::string> & files_list)
 int main()
 {
 	std::vector<std::string> files_list;
-	create_files_list(files_list);
+	if (std::filesystem::exists("filenames")) {
+		std::cout << "exists";
+
+		std::ifstream in("filenames");
+		std::string file_name;
+		while (std::getline(in, file_name)) {
+			files_list.push_back(file_name);
+		}
+	} else {
+		create_files_list(files_list);
+	}
+
 
     #pragma omp parallel 
     {
