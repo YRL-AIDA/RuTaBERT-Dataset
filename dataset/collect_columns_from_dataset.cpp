@@ -91,7 +91,8 @@ void thread_function(const std::vector<std::string> & files_list)
         d.ParseStream(is);
         fclose(fp);
 
-        std::string table_id = file_name;
+        // add filename without  "_meta.json"
+        std::string table_id = file_name.substr(0, file_name.size() - 10);
         if (d["columns"].IsObject()) {
             for (auto & column : d["columns"].GetObject()) {
             
