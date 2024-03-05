@@ -181,3 +181,6 @@ cta_dataset/cta_dataset.zip
 # Compiled cpp files
 dataset/collecting/collect_columns_from_dataset
 dataset/collecting/collect_columns_data
+
+# Dataset
+dataset/cta_dataset/dataset/cta_dataset.csv

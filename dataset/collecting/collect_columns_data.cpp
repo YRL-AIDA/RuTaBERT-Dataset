@@ -11,13 +11,14 @@
 
 const std::string SEP = "⇧";
 
-void create_files_list(std::vector<std::string> & file_names)
+void create_files_list(std::vector<std::string> & file_names, std::string labelled_headers_filename)
 {
     /*
      * Create vector of file names.csv
      *
      */
-    std::ifstream in("../labelling/labelled/labelled_threshold_0.78.csv");
+    // std::ifstream in("../labelling/labelled/threshold_0.78.csv");
+    std::ifstream in(labelled_headers_filename);
     std::string file_name;
 
     // skip header
@@ -64,6 +65,7 @@ void collect(const std::vector<std::string> & file_names)
         // TODO: improve somehow, dont like
         std::getline(table, table_row);
         boost::replace_all(table_row, "[править | править код]", "");
+        boost::replace_all(table_row, "\"", "");
         if (std::count(table_row.begin(), table_row.end(), '|') < 1) {
             std::getline(table, table_row);
         }
@@ -94,7 +96,8 @@ void collect(const std::vector<std::string> & file_names)
                 }
                     
                 if (ok) {
-                    column_data += cur_cell + ";";
+                    // column_data += cur_cell + ";";
+                    column_data += cur_cell + " ";
                 }
             }
         }
@@ -105,7 +108,7 @@ void collect(const std::vector<std::string> & file_names)
 int main()
 {
     std::vector<std::string> file_names;
-    create_files_list(file_names);
+    create_files_list(file_names, "../labelling/labelled/threshold_0.78.csv");
 
     #pragma omp parallel
     {
