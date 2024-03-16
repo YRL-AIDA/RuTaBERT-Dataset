@@ -1,15 +1,15 @@
 # RuTaBERT-Dataset
 
-Dataset besed on [Russian Web Tables](https://arxiv.org/abs/2210.06353), which is a corpus of Russian language tables from Wikipedia.
+Dataset based on [Russian Web Tables](https://arxiv.org/abs/2210.06353), which is a corpus of Russian language tables from Wikipedia.
 
 Only relational tables were chosen from RuWebTables with headers matching selected 170 DBpedia semantic types.
 
 Dataset contains `1.441.349` columns, and has fixed train / test split. 
 
-| Split | Columns |
-|--------------|---------|
-| Test   | 72.067   |
-| Train  | 1.369.282 |
+| Split | Columns   |
+|-------|-----------|
+| Test  | 72.067    |
+| Train | 1.369.282 |
 
 
 ## Instruction to reproduce dataset
