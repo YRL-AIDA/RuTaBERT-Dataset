@@ -6,9 +6,14 @@ cd ../test/;
 tar -czf data.tar.gz data.csv;
 mv data.tar.gz ../../../../RuTaBERT/data/test/;
 
-cd ../../../../RuTaBERT/data/train/;
+cd ../;
+tar -czf stats.tar.gz stats/;
+mv stats.tar.gz ../../../RuTaBERT/data/;
+
+cd ../../../RuTaBERT/data/train/;
 tar -xvf data.tar.gz;
 
-cd ../test/
+cd ../test/;
 tar -xvf data.tar.gz;
 
+cd ../ && tar -xvf stats.tar.gz;
