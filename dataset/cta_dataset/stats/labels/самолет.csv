@@ -1,291 +1,462 @@
 table_id|column_id|label_id|label|column_data
-dataset/Dataset/data/6867744/table_4|1|123|самолет|И-153 Як-9Т, Д, У Як-9П МиГ-15 МиГ-17 
-dataset/Dataset/data/5631188/table_2|1|123|самолет|376 
-dataset/Dataset/data/6849070/table_1|2|123|самолет|468 
-dataset/Dataset/data/595230/table_0|0|123|самолет|ATR 72-500 Boeing 737-400 Boeing 737-500 Boeing 737-800 Boeing 767-200ER 
-dataset/Dataset/data/1614856/table_0|0|123|самолет|Airbus A330-300 Airbus A350-900 Airbus A350-900ULR Airbus A380-800 Boeing 777-200 Boeing 777-200ER Boeing 777-300 Boeing 777-300ER Boeing 777-9 Boeing 787-10 Итого: 
-dataset/Dataset/data/6864742/table_1|1|123|самолет|223 
-dataset/Dataset/data/6482386/table_3|0|123|самолет|110 
-dataset/Dataset/data/6676676/table_1|2|123|самолет|22 + 0 22 + 0 19 + 0 19 + 0 14 + 4 13 + 3 13 + 1 12 + 3 10 + 7 8 + 5 8 + 0 8 + 0 7 + 7 7 + 5 7 + 0 7 + 0 6 + 0 5 + 1 5 + 0 5 + 0 5 + 0 5 + 0 5 + 0 
-dataset/Dataset/data/6290235/table_2|0|123|самолет|1 экипаж (вынужденная посадка на территории противника) 
-dataset/Dataset/data/6848835/table_4|1|123|самолет|И-16 ЛаГГ-3 Ла-5 Ла-7 Як-17 МиГ-15 бис МиГ-17 МиГ-17 Ф, П, ПФ Як-25М МиГ-21Ф, Ф13 МиГ-21ПФ, ПФМ МиГ-21Р МиГ-21СМ МиГ-21СМТ МиГ-21БИС Су-27 Су-35С 
-dataset/Dataset/data/6848818/table_4|1|123|самолет|И-153. И-16 И-15бис ЛаГГ-3 Як-1 Ла-5 Ла-7 МиГ-15 МиГ-17 
-dataset/Dataset/data/5329636/table_3|1|123|самолет|ЛаГГ-3 Як-1 Як-3 Кингкобра МиГ-15 МиГ-17 
-dataset/Dataset/data/6864069/table_7|0|123|самолет|416 
-dataset/Dataset/data/6255539/table_4|1|123|самолет|И-16 И-15 Харрикейн ЛаГГ-3 Як-9 
-dataset/Dataset/data/6848662/table_4|1|123|самолет|И-15 бис Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 МиГ-19, Як-25 Л-29 Л-39 МиГ-23 
-dataset/Dataset/data/5241316/table_2|1|123|самолет|Boeing 737-700, Boeing 737-800 Embraer EMB-120 Brasília Boeing 737-300 Airbus A319, Airbus A320-200 Embraer EMB-120 Brasília, Grand Caravan ATR-72, Embraer 175 Embraer 195 
-dataset/Dataset/data/3191536/table_2|0|123|самолет|Су-24МР 
-dataset/Dataset/data/3191536/table_6|0|123|самолет|Су-38 
-dataset/Dataset/data/7721675/table_0|1|123|самолет|встреч с самолётами противника и воздушных боёв не было 
-dataset/Dataset/data/6647233/table_2|0|123|самолет|7 
-dataset/Dataset/data/6838868/table_4|1|123|самолет|15 
-dataset/Dataset/data/6839392/table_1|1|123|самолет|372 
-dataset/Dataset/data/5977365/table_1|1|123|самолет|36 
-dataset/Dataset/data/6848660/table_4|1|123|самолет|И-16 Як-7 Як-1 Як-1Б Як-9 Як-3 
-dataset/Dataset/data/7017210/table_0|0|123|самолет|Fiat C.R.42 «Falco» Fiat G.50bis «Freccia» Fiat BR.20M «Cicogna» Caproni Ca.133T CANT Z.1007 «Alcione» Caproni Ca.164 Savoia-Marchetti S.M.82 
-dataset/Dataset/data/5666963/table_3|0|123|самолет|24 
-dataset/Dataset/data/6848881/table_1|2|123|самолет|451 
-dataset/Dataset/data/6838753/table_4|1|123|самолет|ЛаГГ-3 Як-1, Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 
-dataset/Dataset/data/5353889/table_3|1|123|самолет|Хоукер Харрикейн Як-1 Як-7Б 
-dataset/Dataset/data/3661598/table_0|2|123|самолет|МиГ-21 МиГ-21 МиГ-21 МиГ-21 МиГ-21 МиГ-17 МиГ-17 МиГ-21 МиГ-17 МиГ-21 МиГ-21 МиГ-21 МиГ-17/МиГ-21 МиГ-21 МиГ-21 МиГ-21 
-dataset/Dataset/data/5316590/table_4|1|123|самолет|ЛаГГ-3 Як-1 Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 МиГ-19 МиГ-21 МиГ-23 Ми-14ПЛ 
-dataset/Dataset/data/6864578/table_1|2|123|самолет|139 
-dataset/Dataset/data/5745692/table_2|2|123|самолет|26 
-dataset/Dataset/data/6663958/table_0|2|123|самолет|Nieuport 10 #3968 Nieuport 11 #3981 Nieuport 11 #3987 Nieuport 11 Nieuport 11 #3933 Nieuport 11 Nieuport Sopwith Triplane #N500 Nieuport 11 Nieuport 11 Sopwith Triplane #N500 Sopwith Triplane #N500 Sopwith Triplane #N5436 Sopwith Triplane #N5436 Sopwith Triplane #N5436 Sopwith Triplane #5436 Sopwith Triplane #N5436 Sopwith Triplane #N5436 Sopwith Triplane #N5436 Sopwith Triplane #N5436 Sopwith Triplane #N5436 Sopwith Triplane #N5436 Sopwith Triplane #N5436 Sopwith Triplane #N5436 Sopwith Triplane #N5436 Sopwith Triplane Sopwith Triplane Sopwith Triplane Sopwith Triplane Sopwith Triplane Sopwith Triplane Sopwith Triplane N6508 Sopwith Triplane Sopwith Triplane Sopwith Camel #B6427 Sopwith Camel #B6431 Sopwith Camel Sopwith Camel Sopwith Camel #5427 RAF SE5a #C4879 RAF SE5a #B178 RAF SE5a #D3511 RAF SE5a #D3511 RAF SE5a #D3511 RAF SE5a #D3511 RAF SE5a #D3511 RAF SE5a #D3511 RAF SE5a RAF SE5a RAF SE5a #D3511 
-dataset/Dataset/data/6861579/table_1|1|123|самолет|242 
-dataset/Dataset/data/5918860/table_1|1|123|самолет|155 
-dataset/Dataset/data/5923963/table_3|0|123|самолет|37 
-dataset/Dataset/data/5393356/table_4|1|123|самолет|МиГ-3 ЛаГГ-3 Як-7Б Як-9Т Як-9 Як-17 МиГ-15 МиГ-19П, ПМ, С, СВ МиГ-21С МиГ-23М 
-dataset/Dataset/data/5900675/table_4|1|123|самолет|И-16 И-15БИС МиГ-3 Як-1 P-39 Airacobra P-63 Kingcobra МиГ-15 МиГ-17 
-dataset/Dataset/data/5337818/table_1|2|123|самолет|448 
-dataset/Dataset/data/5399703/table_4|1|123|самолет|МиГ-3 ЛаГГ-3 Як-1 Як-7Б Як-9 МиГ-15 МиГ-17 Су-7БКЛ Су-17М2, М3 Су-24 
-dataset/Dataset/data/6867281/table_2|1|123|самолет|226 
-dataset/Dataset/data/6838825/table_1|1|123|самолет|391 
-dataset/Dataset/data/6160958/table_1|2|123|самолет|CRJ-100/200 
-dataset/Dataset/data/6161141/table_3|2|123|самолет|13 
-dataset/Dataset/data/6848967/table_4|0|123|самолет|18 
-dataset/Dataset/data/6848977/table_1|1|123|самолет|325 
-dataset/Dataset/data/7372330/table_2|6|123|самолет|Zivko Edge 540 V2 Zivko Edge 540 V3 Zivko Edge 540 V3 Zivko Edge 540 V3 Zivko Edge 540 V3 Zivko Edge 540 V3 Zivko Edge 540 V2 Zivko Edge 540 V3 
-dataset/Dataset/data/5448617/table_1|2|123|самолет|(Ла-5, Ла-7, Ла-9, Ла-11) (Ла-5, Ла-7, Ла-9, Ла-11, МиГ-15) (Ла-5, Ла-7, Ла-9, Ла-11, МиГ-15) (Як-9У, МиГ-15) 
-dataset/Dataset/data/6867768/table_3|4|123|самолет|Як-1 Як-3 МиГ-15 
-dataset/Dataset/data/5924708/table_1|1|123|самолет|Як-1 
-dataset/Dataset/data/6701118/table_6|3|123|самолет|20 
-dataset/Dataset/data/5934045/table_1|1|123|самолет|161 
-dataset/Dataset/data/2633087/table_0|2|123|самолет|? ~200 169 213 189 212 271 275 290 262 214 
-dataset/Dataset/data/6839598/table_1|1|123|самолет|Пе-2 Ил-28 Як-28 Су-24М 
-dataset/Dataset/data/6848865/table_3|1|123|самолет|Як-1 Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 МиГ-21 ПФ, ПФМ, БИС МиГ-29 
-dataset/Dataset/data/6864893/table_4|1|123|самолет|МиГ-3 ЛаГГ-3 Як-1 Як-7Б Як-9 МиГ-15 МиГ-17 Су-7БКЛ Су-17М2, М3 Су-24 
-dataset/Dataset/data/5347548/table_3|1|123|самолет|И-16 Як-1 Р-39 «Аэрокобра» Р-63 Кингкобра МиГ-15 МиГ-17 Як-25Р (1-я аэ) МиГ-19Р Як-28П 
-dataset/Dataset/data/6839579/table_1|1|123|самолет|СБ Ар-2 Пе-2 Ил-28 
-dataset/Dataset/data/6848934/table_1|2|123|самолет|385 
-dataset/Dataset/data/5341578/table_0|3|123|самолет|71 
-dataset/Dataset/data/5280213/table_2|0|123|самолет|95 
-dataset/Dataset/data/6255539/table_2|1|123|самолет|77 
-dataset/Dataset/data/6838674/table_4|0|123|самолет|23 
-dataset/Dataset/data/2343237/table_18|2|123|самолет|"Ту-98 Ту-22М0 ? ? ? Ту-22М1, Ту-22М2 Первоначальное обозначение Ту-22М3 (BACKFIRE C) Ту-22М3 Ту-22МР (Ту-22М3Р) ""Ту-16, Ту-16А, Ту-16Г, Ту-16С """"Фрегат"""""" Ту-16Ю (Ту-16 З), Ту-16Н, Ту-16НН Ту-16Т Ту-16КС Ту-16К-10 Ту-16К-10-26 Ту-16РМ-1 Ту-16Р Ту-16Р Ту-16КСР-2, Ту-16КСР-2А, Ту-16КСР-2-11, Ту-16К-11-16, Ту-16К-26, Ту-16КСР-2-5, Ту-16КСР-2-5-11 Ту-16К-26 Ту-16Е ""Ту-16П """"Букет"""""" Ту-16РМ-2 Ту-16РР ""North American B-25 """"Mitchell"""""" Ту-85 Ил-2 Ту-2 Ил-28 и Harbin Н-5 (Китай) Ту-95, Ту-95А, Ту-95М, Ту-16МА Ту-95М-5 Ту-95К, Ту-95КД, Ту-95КМ Первоначальное обозначение Ту-95К-22 (BEAR G) в результате конверсии Ту-95К/-95КД Ту-95КМ Первоначальное обозначение Ту-95К-22 (BEAR G) в результате конверсии Ту-95КМ Ту-95РЦ Ту-95РЦ Ту-95МР Ту-142 Ту-142 Ту-142 Ту-142М Ту-142МЗ ? ? Первоначальное обозначение Ту-142 (BEAR F Mod.2) ? ? Первоначальное обозначение Ту-142М (BEAR F Mod.3) Первоначальное обозначение Ту-142МH (BEAR J) Ту-142 (BEAR F Mod.2) с фильтрогондолами РР8311-100 ? Первоначальное обозначение Ту-95МС (BEAR H) Ту-95К-22 Ту-95МС, Ту-95МСМ ""Ту-142МР """"Орел"""""" Ту-142МРЦ Ту-95У Ил-10, Ил-10М первоначальное обозначение Ту-22 М-4, М-4-2 3М, 3МЕ, 3МН, 3МН-2, 3МР, 3МС, 3МС-2, 3М-5 ""ВМ-Т """"Атлант"""""" 3МД Ту-160 Ту-22А, Ту-22Б Ту-22К, Ту-22КД Ту-22КП Ту-22Р, Ту-22РД Ту-22РДК Ту-22РДМ Ту-22У, Ту-22УД Ту-22П1 Ту-22П2 Ил-54 Ил-4 Ту-91 Ту-14 М-50 ""Douglas A-20 """"Havoc"""""" первоначальное обозначение Як-28 Ил-40 Як-28Б Як-28Л Як-28И Як-28Р Як-28ПП Пе-2 первоначальное обозначение Пе-2 Ту-4 Ту-82 "
-dataset/Dataset/data/6867648/table_3|2|123|самолет|321 
-dataset/Dataset/data/5663044/table_2|1|123|самолет|И-153 Як-1 
-dataset/Dataset/data/6864043/table_7|1|123|самолет|62 
-dataset/Dataset/data/6646502/table_2|1|123|самолет|132 
-dataset/Dataset/data/6116469/table_1|2|123|самолет|6 + 0 6 + 0 5 + 0 27 + 1 7 + 1 (6 + 1) 5 + 6 (5 + 1) 7 + 4 12 + 2 8 + 0 16 + 0 7 + 0 (2 + 0) 
-dataset/Dataset/data/5424201/table_2|1|123|самолет|И-5 МиГ-3 Як-7УТИ Як-7 
-dataset/Dataset/data/6701080/table_1|2|123|самолет|385 
-dataset/Dataset/data/4961588/table_0|2|123|самолет|1 Не-111 1 Bf-109 1 Ju-88 1 Не-111 1 Fw-189 1 Fw-189 1 Ju-88 1 Bf-109 1 Do-215 1 Bf-109 1 Ju-88 1 Ju-87 1 Ju-87 1 1 Fw-189 1 1 Fw-189 1 Ju-87 
-dataset/Dataset/data/6458353/table_2|1|123|самолет|24 
-dataset/Dataset/data/6864059/table_7|1|123|самолет|62 
-dataset/Dataset/data/5847850/table_2|2|123|самолет|509 
-dataset/Dataset/data/5331861/table_1|2|123|самолет|268 
-dataset/Dataset/data/6864558/table_4|0|123|самолет|125 
-dataset/Dataset/data/5352171/table_1|1|123|самолет|45 
-dataset/Dataset/data/6480878/table_3|0|123|самолет|118 
-dataset/Dataset/data/5333207/table_2|0|123|самолет|130 
-dataset/Dataset/data/6848889/table_4|1|123|самолет|И-15 бис Як-1, Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 
-dataset/Dataset/data/6308001/table_1|1|123|самолет|И-16 Як-3 МиГ-17 Су-9 Ту-128 
-dataset/Dataset/data/5883527/table_3|2|123|самолет|16 
-dataset/Dataset/data/5973008/table_2|2|123|самолет|6 7 6 6 8 7 5 9 
-dataset/Dataset/data/6838871/table_4|0|123|самолет|107 
-dataset/Dataset/data/6838749/table_1|1|123|самолет|302 
-dataset/Dataset/data/2473288/table_0|1|123|самолет|Ju-88 (в группе) два Ме-109 Ме-109 (в группе) Ме-110 (в группе) Ме-109 (в группе) Ju-88 (в группе) Ju-88 (в группе) Ju-88 Ме-109 Ме-109 Ju-87 Ju-88 (в группе) Ме-109 Ме-109 Ме-109 (в паре) Ме-109 
-dataset/Dataset/data/3191536/table_4|0|123|самолет|Су-80 Sukhoi Superjet 100 
-dataset/Dataset/data/6838748/table_2|0|123|самолет|86 
-dataset/Dataset/data/5745694/table_2|2|123|самолет|26 
-dataset/Dataset/data/5315505/table_1|1|123|самолет|329 
-dataset/Dataset/data/6673667/table_2|1|123|самолет|305 
-dataset/Dataset/data/6664833/table_1|0|123|самолет|24 (23 ЛаГГ-3, 1 Як-1) 
-dataset/Dataset/data/5925927/table_4|1|123|самолет|И-16 МиГ-3 Аэрокобра Спитфайр IX МиГ-15 МиГ-17 
-dataset/Dataset/data/6698321/table_5|1|123|самолет|И-16, И-15 бис, Як-1 Як-7Б P-51 Як-3 Як-7 Як-9, МиГ-9 МиГ-15 МиГ-17 МиГ-21БИС, в 3-й аэ МиГ-21БИС-М с 1980 г. С 1982 г. МиГ-21СМ, в 3-й аэ 1 с-т МиГ-21СМТ МиГ-27 Д, К (МиГ-27К — 1-я аэ, МиГ-27Д — 2-я аэ и 3-я аэ) Су-25 Су-25СМ 
-dataset/Dataset/data/6842235/table_4|4|123|самолет|59 
-dataset/Dataset/data/6839378/table_1|2|123|самолет|385 
-dataset/Dataset/data/5390931/table_1|2|123|самолет|182 
-dataset/Dataset/data/6839307/table_4|0|123|самолет|114 
-dataset/Dataset/data/6469777/table_1|1|123|самолет|43 
-dataset/Dataset/data/6848742/table_1|2|123|самолет|8 + 1 14 + 2 9 + 0 6 + 0 9 + 0 5 + 0 10 + 1 13 + 0 5 + 0 12 + 4 8 + 0 14 + 1 11 + 4 5 + 2 8 + 0 18 + 4 
-dataset/Dataset/data/6646384/table_2|1|123|самолет|132 
-dataset/Dataset/data/6867265/table_2|3|123|самолет|241 
-dataset/Dataset/data/6838633/table_3|2|123|самолет|538 
-dataset/Dataset/data/6466343/table_2|1|123|самолет|1 
-dataset/Dataset/data/7883070/table_0|5|123|самолет|23 30 293 15 104 63 8 954 — 18 50 517 
+dataset/Dataset/data/1042430/table_1|2|123|самолет|CRJ-100/200 
+dataset/Dataset/data/1168194/table_1|0|123|самолет|127 
+dataset/Dataset/data/1324324/table_21|4|123|самолет|Messerschmitt Bf.109G-4 Messerschmitt Bf.109G-4 Messerschmitt Bf.109G Messerschmitt Bf.109G Messerschmitt Bf.109G Messerschmitt Bf.109G Messerschmitt Bf.109G 
+dataset/Dataset/data/132838/table_2|0|123|самолет|Ми-171 Ми-8Т Ми-26Т Ка-32 AS.350 AS.355 ВО-105 Robinson R44 
+dataset/Dataset/data/1648572/table_19|2|123|самолет|"Микоян Е-2А МиГ-15 МиГ-15бис Микоян 23-31 Первоначальное обозначение МиГ-15 (Fagot) Ла-11 Ла-15 Nanchang Q-5 МиГ-9 МиГ-19 МиГ-19П, Nanchang J-6A Guizjou J-6A Xin МиГ-19СВ МиГ-19C, МиГ-19СФ, Shenyang J-6 Shenyang J-6 Shenyang J-6 Shenyang J-6 Первоначальное обозначение Shenyang J-6 IIIG (FARMER G) МиГ-19ПМ, Nanchang J-6B Shenyang JJ-6 Shenyang J-6 III Первоначальное обозначение Ту-128 (FIDDLER A) Як-15 и Як-17 Су-57 Су-24 Су-24 Су-24 ? Су-24М, Су-24МК, Су-24М2 Су-24М Су-24МР Су-24МП Ту-128 Ту-128, Ту-128М Первоначальное обозначение Ту-128УТ (FIDDLER C) Ту-128УТ Ла-7 Shenyang J-8, J-8A (J-8 I) Первоначальное обозначение J-8B (FINBACK B) Shenyang J-8B (J-8 II) Первоначальное обозначение J-8D (FINBACK D) Shenyang J-8M (J-8 IIM) Shenyang J-8D (J-8 IIA) Shenyang J-8E ""БРЛС """"Орел-Д"""""" Як-28П Первоначальное обозначение Як-28П (БРЛС Орел-ДМ) поздних серий с более длинным обтектелем БРЛС Chengdu J-10 Chengdu J-20 ""Су-47 """"Беркут"""""" МиГ-21 МиГ-21Ф МиГ-21Ф-13 МиГ-21ПФ, МиГ-21ФЛ ? Микоян Е-6В МиГ-21ПФС, МиГ-21ПФМ, МиГ-21ФЛ Первоначальное обозначение МиГ-21Р (FISHBED H) Микоян 23-31 МиГ-21Р МиГ-21С, МиГ-21Н, МиГ-21М, МиГ-21МФ, МиГ-21СМ, МиГ-21СН МиГ-21МТ, МиГ-21СМТ МиГ-21СТ, МиГ-21бис МиГ-21бис ? ? ? Chengdu J-7E Сухой Т-3 Су-9 Су-11 Су-7, Су-7Б, Су-7БМ. Су-7БМК, Су-7БКЛ Сухой С-22И Су-17, Су-17М, Су-20, Су-20Р ? Су-17М2 Су-17УМ, Су-22У Су-22 Су-22УМ3 Су-17М3, Су-17М3Р Первоначальное обозначение Су-17М4 (FITTER K) Су-22М, Су-22М3 Су-17М4, Су-17М4Р, Су-22М4 Су-15 Сухой Т-58ВД Су-15УТ Су-15 (модернизированное крыло) и Су-15Т Су-15ТМ Су-15ТМ Су-15УМ Сухой Т-10 Первоначальное обозначение Су-27 (FLANKER B) Су-27, Shenyang J-11 и J-11A Первоначальное обозначение Су-27УБ (FLANKER C) Т-10-24 (опытный самолет с ПГО) ? Су-27УБ, Су-27УБК Су-33 (Су-27К) Су-35 (Су-27М) Су-37 Су-30, Су-30К Су-30М, Су-30МК Су-30МКК Су-30МКИ Су-27СМ Су-35С Shenyang J-11B Як-25, Як-25М, Як-25У Як-26 Як-27 Первоначальное обозначение Як-27Р (MANGROVE) Микоян 1.44 Микоян Е-166 (Е-152А) МиГ-23, МиГ-23С, МиГ-23СМ МиГ-23М, МиГ-23МФ МиГ-23У, МиГ-23УБ, МиГ-23УМ МиГ-27 (МиГ-23БМ) Первоначальное обозначение МиГ-27Д (FLOGGER J) МиГ-23МП, МиГ-23МС МиГ-23Б, МиГ-23БМ МиГ-23П, МиГ-23МЛ, МиГ-23МЛА, МиГ-23МЛД (экспортный) МиГ-23БН МиГ-27Д, МиГ-27М Первоначальное обозначение МиГ-27K (FLOGGER J variant 2) МиГ-27К (МиГ-23БК) МиГ-23МЛД (для ВВС СССР) Як-23 Xian JH-7 Як-38 Як-38У МиГ-25П МиГ-25Р, МиГ-25РБ, МиГ-25РБВ, МиГ-25РБК МиГ-25РБТ, МиГ-25РБФ МиГ-25ПУ, МиГ-25РУ МиГ-25РБС МиГ-25РБШ МиГ-25ПД, МиГ-25ПДС МиГ-25БМ МиГ-31, МИг-31Б, МиГ-31БС, МиГ-31ДЗ МиГ-31М МиГ-31БМ Як-9 Су-57 ""Bell P-63 """"Kingcobra"""""" Як-36 Як-141 МиГ-17 МиГ-17 МиГ-17Ф МиГ-17ПФ МиГ-17ПФУ Chengdu JJ-5 (FT-5) Ла-9 Су-25, Су-25К, Су-25БМ. Су-25БМК, Су-25СМ Су-25УБ, Су-25УБК, Су-25УБМ, Су-28 (Су-25УТ) Су-25Т, Су-25ТК, Су-25ТМ (Су-39) Су-25УТГ Ил-40 МиГ-29 (9-12) МиГ-29 (9-12) МиГ-29 (9-12) МиГ-29 (9-12) МиГ-29УБ МиГ-29 (9-13), МиГ-29С, МиГ-29СМ МиГ-29К МиГ-29М (МиГ-33) МИГ-29СМТ, МиГ-29СМТК МиГ-29УБТ Су-34 Первоначальное обозначение Як-141 (FREESTYLE) "
+dataset/Dataset/data/2343237/table_19|2|123|самолет|"Микоян Е-2А МиГ-15 МиГ-15бис Микоян 23-31 Первоначальное обозначение МиГ-15 (Fagot) Ла-11 Ла-15 Nanchang Q-5 МиГ-9 МиГ-19 МиГ-19П, Nanchang J-6A Guizjou J-6A Xin МиГ-19СВ МиГ-19C, МиГ-19СФ, Shenyang J-6 Shenyang J-6 Shenyang J-6 Shenyang J-6 Первоначальное обозначение Shenyang J-6 IIIG (FARMER G) МиГ-19ПМ, Nanchang J-6B Shenyang JJ-6 Shenyang J-6 III Первоначальное обозначение Ту-128 (FIDDLER A) Як-15 и Як-17 Су-57 Су-24 Су-24 Су-24 ? Су-24М, Су-24МК, Су-24М2 Су-24М Су-24МР Су-24МП Ту-128 Ту-128, Ту-128М Первоначальное обозначение Ту-128УТ (FIDDLER C) Ту-128УТ Ла-7 Shenyang J-8, J-8A (J-8 I) Первоначальное обозначение J-8B (FINBACK B) Shenyang J-8B (J-8 II) Первоначальное обозначение J-8D (FINBACK D) Shenyang J-8M (J-8 IIM) Shenyang J-8D (J-8 IIA) Shenyang J-8E ""БРЛС """"Орел-Д"""""" Як-28П Первоначальное обозначение Як-28П (БРЛС Орел-ДМ) поздних серий с более длинным обтектелем БРЛС Chengdu J-10 Chengdu J-20 ""Су-47 """"Беркут"""""" МиГ-21 МиГ-21Ф МиГ-21Ф-13 МиГ-21ПФ, МиГ-21ФЛ ? Микоян Е-6В МиГ-21ПФС, МиГ-21ПФМ, МиГ-21ФЛ Первоначальное обозначение МиГ-21Р (FISHBED H) Микоян 23-31 МиГ-21Р МиГ-21С, МиГ-21Н, МиГ-21М, МиГ-21МФ, МиГ-21СМ, МиГ-21СН МиГ-21МТ, МиГ-21СМТ МиГ-21СТ, МиГ-21бис МиГ-21бис ? ? ? Chengdu J-7E Сухой Т-3 Су-9 Су-11 Су-7, Су-7Б, Су-7БМ. Су-7БМК, Су-7БКЛ Сухой С-22И Су-17, Су-17М, Су-20, Су-20Р ? Су-17М2 Су-17УМ, Су-22У Су-22 Су-22УМ3 Су-17М3, Су-17М3Р Первоначальное обозначение Су-17М4 (FITTER K) Су-22М, Су-22М3 Су-17М4, Су-17М4Р, Су-22М4 Су-15 Сухой Т-58ВД Су-15УТ Су-15 (модернизированное крыло) и Су-15Т Су-15ТМ Су-15ТМ Су-15УМ Сухой Т-10 Первоначальное обозначение Су-27 (FLANKER B) Су-27, Shenyang J-11 и J-11A Первоначальное обозначение Су-27УБ (FLANKER C) Т-10-24 (опытный самолет с ПГО) ? Су-27УБ, Су-27УБК Су-33 (Су-27К) Су-35 (Су-27М) Су-37 Су-30, Су-30К Су-30М, Су-30МК Су-30МКК Су-30МКИ Су-27СМ Су-35С Shenyang J-11B Як-25, Як-25М, Як-25У Як-26 Як-27 Первоначальное обозначение Як-27Р (MANGROVE) Микоян 1.44 Микоян Е-166 (Е-152А) МиГ-23, МиГ-23С, МиГ-23СМ МиГ-23М, МиГ-23МФ МиГ-23У, МиГ-23УБ, МиГ-23УМ МиГ-27 (МиГ-23БМ) Первоначальное обозначение МиГ-27Д (FLOGGER J) МиГ-23МП, МиГ-23МС МиГ-23Б, МиГ-23БМ МиГ-23П, МиГ-23МЛ, МиГ-23МЛА, МиГ-23МЛД (экспортный) МиГ-23БН МиГ-27Д, МиГ-27М Первоначальное обозначение МиГ-27K (FLOGGER J variant 2) МиГ-27К (МиГ-23БК) МиГ-23МЛД (для ВВС СССР) Як-23 Xian JH-7 Як-38 Як-38У МиГ-25П МиГ-25Р, МиГ-25РБ, МиГ-25РБВ, МиГ-25РБК МиГ-25РБТ, МиГ-25РБФ МиГ-25ПУ, МиГ-25РУ МиГ-25РБС МиГ-25РБШ МиГ-25ПД, МиГ-25ПДС МиГ-25БМ МиГ-31, МИг-31Б, МиГ-31БС, МиГ-31ДЗ МиГ-31М МиГ-31БМ Як-9 Су-57 ""Bell P-63 """"Kingcobra"""""" Як-36 Як-141 МиГ-17 МиГ-17 МиГ-17Ф МиГ-17ПФ МиГ-17ПФУ Chengdu JJ-5 (FT-5) Ла-9 Су-25, Су-25К, Су-25БМ. Су-25БМК, Су-25СМ Су-25УБ, Су-25УБК, Су-25УБМ, Су-28 (Су-25УТ) Су-25Т, Су-25ТК, Су-25ТМ (Су-39) Су-25УТГ Ил-40 МиГ-29 (9-12) МиГ-29 (9-12) МиГ-29 (9-12) МиГ-29 (9-12) МиГ-29УБ МиГ-29 (9-13), МиГ-29С, МиГ-29СМ МиГ-29К МиГ-29М (МиГ-33) МИГ-29СМТ, МиГ-29СМТК МиГ-29УБТ Су-34 Первоначальное обозначение Як-141 (FREESTYLE) "
+dataset/Dataset/data/2381660/table_0|0|123|самолет|Боинг 737-800 
+dataset/Dataset/data/2383564/table_0|0|123|самолет|Boeing 747-400BCF Boeing 747-400ERF Boeing 747-400F Boeing 747-8F Всего 
+dataset/Dataset/data/2416588/table_0|2|123|самолет|И-153, ЛаГГ-3 Ла-5 Ла-5, Ла-7 
+dataset/Dataset/data/2624112/table_0|0|123|самолет|Ту-154Б-2 Ту-154Б-2 Ту-154м Ту-154м Ту-154м Ту-154м Airbus A320 Airbus A320 Ту-134А Ту-134А Ту-134А 
+dataset/Dataset/data/2721166/table_1|0|123|самолет|6 
+dataset/Dataset/data/272441/table_0|1|123|самолет|Airbus A319-100 Avro RJ70 British Aerospace 146 Boeing 757-200 Fokker 50 Saab 340 Boeing 737-300 Boeing 737-500 Bombardier Q400 
+dataset/Dataset/data/2924944/table_1|3|123|самолет|Ла-5, Ла-7, Ту-2 Ту-2, Ил-12 
 dataset/Dataset/data/3162846/table_2|0|123|самолет|122 
-dataset/Dataset/data/6482388/table_1|2|123|самолет|8 + 2 7 + 1 5 + 0 6 + 0 12 + 0 4 + 6 
-dataset/Dataset/data/6848988/table_1|1|123|самолет|325 
-dataset/Dataset/data/6839546/table_3|1|123|самолет|МиГ-3 Як-1 Як-7б Як-9 Як-1б P-63 Kingcobra 
-dataset/Dataset/data/8133266/table_0|2|123|самолет|7 + 5 9 + 3 
-dataset/Dataset/data/6270341/table_1|2|123|самолет|6 + 2 21 + 0 15 + 1 5 + 4 7 + 0 
-dataset/Dataset/data/5701205/table_2|1|123|самолет|214 
-dataset/Dataset/data/5178337/table_0|2|123|самолет|МиГ-21 МиГ-21 МиГ-21 МиГ-21 МиГ-21 МиГ-17 МиГ-17 МиГ-21 МиГ-17 МиГ-21 МиГ-21 МиГ-21 МиГ-17/МиГ-21 МиГ-21 МиГ-21 МиГ-21 
-dataset/Dataset/data/6848989/table_1|2|123|самолет|371 
-dataset/Dataset/data/6687074/table_0|2|123|самолет|89 
-dataset/Dataset/data/5280436/table_2|0|123|самолет|95 
-dataset/Dataset/data/5605952/table_4|1|123|самолет|166 
-dataset/Dataset/data/5944255/table_3|1|123|самолет|И-16 И-15бис И-153 МиГ-3 ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 
-dataset/Dataset/data/6290874/table_0|1|123|самолет|И-16 Ла-7 Ла-9 МиГ-17 Ту-128 
-dataset/Dataset/data/5637917/table_5|1|123|самолет|И-15 бис И-16 И-153 Як-1 Як-7Б Як-9 Як-3 Ла-9 МиГ-15 МиГ-17 УТИ МиГ-15, Су-7У, Су-17 Су-17М3, Су-17УМ3 Су-24, Су-24МР Су-24, Су-24МР, Су-30СМ, Ту-134-А4 . 
-dataset/Dataset/data/6317341/table_1|1|123|самолет|Ла-5 
-dataset/Dataset/data/6226159/table_2|2|123|самолет|26 
-dataset/Dataset/data/5973009/table_4|0|123|самолет|23 
-dataset/Dataset/data/6848238/table_2|1|123|самолет|149 
-dataset/Dataset/data/6867791/table_2|1|123|самолет|135 
-dataset/Dataset/data/5649233/table_1|1|123|самолет|128 
-dataset/Dataset/data/3706890/table_0|4|123|самолет|Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 
-dataset/Dataset/data/6848658/table_2|1|123|самолет|389 
-dataset/Dataset/data/6673664/table_1|2|123|самолет|(Ла-5, Ла-7, Ла-9, Ла-11) (Ла-5, Ла-7, Ла-9, Ла-11, МиГ-15) (Ла-5, Ла-7, Ла-9, Ла-11, МиГ-15) (Як-9У, МиГ-15) 
-dataset/Dataset/data/6848919/table_2|0|123|самолет|174 
-dataset/Dataset/data/5962919/table_1|2|123|самолет|0 
-dataset/Dataset/data/6848786/table_3|0|123|самолет|116 
-dataset/Dataset/data/4557952/table_1|1|123|самолет|Р-6, ДБ-3, У-2 ТБ-7 и Ер-2{?}, ДБ-3, Ар-2, АНТ-40 (СБ), Ил-4 (Ил-4Т), МБР-2 ДБ-3, Ил-4 (Ил-4Т), МБР-2, АНТ-40, АНТ-41, Douglas A-20 Havoc («Бостон» A-20) АНТ-40, АНТ-41, Douglas A-20 Havoc («Бостон» A-20), Ту-2 Ил-28 
-dataset/Dataset/data/6848278/table_2|0|123|самолет|174 
-dataset/Dataset/data/6848986/table_1|2|123|самолет|371 
-dataset/Dataset/data/5922272/table_4|1|123|самолет|И-16 И-15бис ЛаГГ-3 Як-1 P-40 Kittyhawk Hawker Hurricane МиГ-15 Як-25, МиГ-19 МиГ-25 П, ПДС МиГ-31 
-dataset/Dataset/data/6466318/table_2|1|123|самолет|1 
-dataset/Dataset/data/6848664/table_3|0|123|самолет|110 
-dataset/Dataset/data/6847962/table_5|1|123|самолет|58 
-dataset/Dataset/data/6848827/table_3|0|123|самолет|88 
-dataset/Dataset/data/6848974/table_1|1|123|самолет|325 
-dataset/Dataset/data/6848921/table_1|1|123|самолет|213 
-dataset/Dataset/data/6838821/table_2|0|123|самолет|87 
-dataset/Dataset/data/3349505/table_0|3|123|самолет|Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Спитфайр Vb Спитфайр Vb 
-dataset/Dataset/data/6848647/table_2|2|123|самолет|141 
-dataset/Dataset/data/5605952/table_4|3|123|самолет|42 
-dataset/Dataset/data/6164552/table_6|1|123|самолет|И-16 МиГ-3 Spitfire IX Як-17 МиГ-9 МиГ-15 МиГ-17 Су-9 МиГ-23 Су-27 
-dataset/Dataset/data/5424324/table_2|1|123|самолет|И-5 МиГ-3 Як-7УТИ Як-7 
+dataset/Dataset/data/3163514/table_1|1|123|самолет|147 
+dataset/Dataset/data/3163514/table_1|2|123|самолет|161 
+dataset/Dataset/data/3349494/table_0|3|123|самолет|Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Кёртисс H75-С1 Спитфайр Vb Спитфайр Vb 
+dataset/Dataset/data/343589/table_0|1|123|самолет|Airbus A319-100 Avro RJ70 British Aerospace 146 Boeing 757-200 Fokker 50 Saab 340 Boeing 737-300 Boeing 737-500 Bombardier Q400 
+dataset/Dataset/data/3736469/table_0|0|123|самолет|Aermacchi MB-326 Aermacchi MB-326 Aermacchi MB-326 Aermacchi MB-326 Aermacchi MB-326 Pilatus PC-9 
+dataset/Dataset/data/3770499/table_1|2|123|самолет|Як-38 с/н 0106 Як-38 с/н ???? Як-38 с/н ???? Як-38 с/н 0307 Як-38 с/н ???? Як-38 с/н 1008 Як-38 с/н ???? Як-38У с/н ???? Як-38 с/н ???? Як-38У с/н ???? Як-38 ? с/н ???? 
+dataset/Dataset/data/3806487/table_0|0|123|самолет|Boeing 737—400SF Boeing 747—200F Boeing 747—300SF Boeing 747—400BDSF Boeing 777F Всего 
+dataset/Dataset/data/3940450/table_0|0|123|самолет|BAe 146-300 Airbus A320-200 ATR 42-300 ATR 72-200 
+dataset/Dataset/data/3971814/table_3|1|123|самолет|И-15 бис И-153 И-16 Ла-5 Ла-7 МиГ-15 МиГ-17 Су-15, Су-15ТМ 
+dataset/Dataset/data/4189656/table_10|1|123|самолет|Airbus A319-100 Airbus A320-200 Airbus A320neo Airbus A321-200 Airbus A321neo Airbus A330-200 Boieng 787-8 Boieng 787-9 Всего 
+dataset/Dataset/data/4788801/table_0|3|123|самолет|Boeing 737—300 Boeing 737—300 и Boeing 737—700 Boeing 737—300 Boeing 737—300 и Boeing 737—400 Boeing 737—300 
+dataset/Dataset/data/4788801/table_1|3|123|самолет|Boeing 737—300 Boeing 737—300 Boeing 737—300 
+dataset/Dataset/data/4790708/table_0|1|123|самолет|МиГ-15 МиГ-17 МиГ-19 МиГ-25 МиГ-31 
+dataset/Dataset/data/4961601/table_0|2|123|самолет|1 Не-111 1 Bf-109 1 Ju-88 1 Не-111 1 Fw-189 1 Fw-189 1 Ju-88 1 Bf-109 1 Do-215 1 Bf-109 1 Ju-88 1 Ju-87 1 Ju-87 1 1 Fw-189 1 1 Fw-189 1 Ju-87 
+dataset/Dataset/data/5048529/table_1|2|123|самолет|276 
+dataset/Dataset/data/5158867/table_1|0|123|самолет|Airbus A321 
+dataset/Dataset/data/5178336/table_0|2|123|самолет|МиГ-21 МиГ-21 МиГ-21 МиГ-21 МиГ-21 МиГ-17 МиГ-17 МиГ-21 МиГ-17 МиГ-21 МиГ-21 МиГ-21 МиГ-17/МиГ-21 МиГ-21 МиГ-21 МиГ-21 
+dataset/Dataset/data/5244116/table_3|1|123|самолет|И-153, И-16 
+dataset/Dataset/data/5249289/table_1|2|123|самолет|79 
+dataset/Dataset/data/5249289/table_1|1|123|самолет|56 
+dataset/Dataset/data/5249963/table_2|0|123|самолет|169 
+dataset/Dataset/data/5253241/table_1|2|123|самолет|364 
+dataset/Dataset/data/5253241/table_1|1|123|самолет|347 
+dataset/Dataset/data/5253241/table_5|1|123|самолет|И-153, И-16 Харрикейн Як-1 Як-7Б Як-3, Як-9Д МиГ-15 МиГ-17 П, ПФ Су-7Б, Су-7 БМ Су-17М2 МиГ-27Д Су-24 
+dataset/Dataset/data/5267091/table_5|1|123|самолет|И-16, И-15 бис, Як-1 Як-7Б P-51 Як-3 Як-7 Як-9, МиГ-9 МиГ-15 МиГ-17 МиГ-21БИС, в 3-й аэ МиГ-21БИС-М с 1980 г. С 1982 г. МиГ-21СМ, в 3-й аэ 1 с-т МиГ-21СМТ МиГ-27 Д, К (МиГ-27К — 1-я аэ, МиГ-27Д — 2-я аэ и 3-я аэ) Су-25 Су-25СМ 
+dataset/Dataset/data/5267092/table_2|0|123|самолет|99 
+dataset/Dataset/data/5271890/table_2|0|123|самолет|96 
+dataset/Dataset/data/5275011/table_3|1|123|самолет|И-16 МиГ-3 ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 МиГ-19 Л-29 Л-39 
+dataset/Dataset/data/5280435/table_1|2|123|самолет|370 
+dataset/Dataset/data/5280435/table_1|1|123|самолет|357 
+dataset/Dataset/data/5280436/table_4|1|123|самолет|И-16 Як-1 Як-7 Як-9У МиГ-15бис МиГ-17Ф, ПФ МиГ-21ПФМ Су-24 Су-24М 
+dataset/Dataset/data/5334617/table_2|0|123|самолет|94 
+dataset/Dataset/data/5338139/table_1|2|123|самолет|448 
+dataset/Dataset/data/5338139/table_1|1|123|самолет|433 
+dataset/Dataset/data/5338139/table_2|0|123|самолет|181 
+dataset/Dataset/data/5338375/table_3|1|123|самолет|ЛаГГ-3 Ла-5 Ла-7 Ла-11 МиГ-15бис МиГ-17 
+dataset/Dataset/data/5341926/table_3|1|123|самолет|И-16 ЛаГГ-3 Як-1 Як-7 Як-9 P-63 Kingcobra МиГ-15 МиГ-17Ф, ПФ МиГ-21ПФ МиГ-21ПФМ МиГ-21 СМ МиГ-23М МиГ-23МЛ МиГ-29 
+dataset/Dataset/data/5344690/table_1|2|123|самолет|433 
+dataset/Dataset/data/5344690/table_1|1|123|самолет|393 
+dataset/Dataset/data/5344690/table_2|0|123|самолет|120 
+dataset/Dataset/data/5347078/table_1|2|123|самолет|447 
+dataset/Dataset/data/5347078/table_1|1|123|самолет|428 
+dataset/Dataset/data/5352002/table_1|3|123|самолет|МиГ-3 МиГ-3 МиГ-3 МиГ-3 МиГ-3 МиГ-3 МиГ-3, сбит в составе звена МиГ-3 МиГ-3. Самолет Ме-109F2 в литературе и донесениях встречался как Ме-115 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5, сбитый Fw-190A (LN-A) из 5./Sch.G.1,летчик лейтенант Вальтер Шульце (Lt Walter Schulze) погиб Ла-5 Ла-5 Ла-5 Ла-5 в группе Ла-5 принуждение к посадке на аэродром Bf-109G-4/R6 (Wr.N 14997) Лётчик унтер-офицер Херберт Майсслер (Uffz Herbert Meissler) из 7./JG52 пленен Як-9Т Як-9Т Як-9Т Як-9Т Як-9Т Як-9Т Як-9Т Як-9Т Як-9Т в составе 274-го иап Як-9Т в составе 274-го иап Як-9Т в составе 274-го иап Як-9Т в составе 274-го иап Як-9Т в составе 274-го иап 
+dataset/Dataset/data/5352102/table_0|3|123|самолет|Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-1 Як-9 
+dataset/Dataset/data/5353889/table_1|1|123|самолет|24 
+dataset/Dataset/data/5353889/table_1|2|123|самолет|24 
+dataset/Dataset/data/5366895/table_4|1|123|самолет|И-16, И-15бис, И-153 Хоукер Харрикейн P-39 Airacobra P-63 Kingcobra 
+dataset/Dataset/data/5378082/table_1|2|123|самолет|463 
+dataset/Dataset/data/5378082/table_1|1|123|самолет|443 
+dataset/Dataset/data/5383823/table_1|2|123|самолет|139 
+dataset/Dataset/data/5383823/table_1|1|123|самолет|116 
+dataset/Dataset/data/5388327/table_2|0|123|самолет|131 
+dataset/Dataset/data/5388467/table_1|3|123|самолет|И-153, ЛаГГ-3 И-153, ЛаГГ-3 И-153, ЛаГГ-3 И-153, ЛаГГ-3 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-5 Ла-7 
+dataset/Dataset/data/5396486/table_1|1|123|самолет|268 
+dataset/Dataset/data/5396486/table_1|2|123|самолет|342 
+dataset/Dataset/data/5400437/table_1|1|123|самолет|164 
+dataset/Dataset/data/5400437/table_1|2|123|самолет|254 
+dataset/Dataset/data/5401933/table_4|1|123|самолет|15 
+dataset/Dataset/data/5401933/table_4|0|123|самолет|107 
+dataset/Dataset/data/5424310/table_2|1|123|самолет|Як-7УТИ Як-9 Як-1 
+dataset/Dataset/data/5424312/table_2|1|123|самолет|Як-7УТИ Як-9 Як-1 
+dataset/Dataset/data/5424717/table_3|1|123|самолет|ЛаГГ-3 Як-7б Як-9 Як-3 
+dataset/Dataset/data/5425406/table_2|1|123|самолет|Киттихаук Curtiss P-40 
+dataset/Dataset/data/5448664/table_3|1|123|самолет|131 
+dataset/Dataset/data/5458493/table_1|0|123|самолет|Ан-24 Ту-134 Ту-154М Ту-154Б-2 Як-40 Як-42 Airbus A321-200 ATR 42-300 ATR 72-200 Boeing 757-200 CRJ 100LR CRJ 200LR 
+dataset/Dataset/data/5500806/table_3|1|123|самолет|519 
 dataset/Dataset/data/5500806/table_3|2|123|самолет|538 
-dataset/Dataset/data/6848845/table_1|2|123|самолет|288 
-dataset/Dataset/data/6839495/table_1|2|123|самолет|8 6 7 5 (1) 7 (1) 
-dataset/Dataset/data/5329636/table_1|1|123|самолет|242 
-dataset/Dataset/data/6618552/table_1|0|123|самолет|Bell 47J Ranger Agusta-Bell 206 Aerospatiale AS365 Ми-17 Ми-24 
-dataset/Dataset/data/5388327/table_4|1|123|самолет|И-153 МиГ-3 ЛаГГ-3 Як-1 Як-7Б Як-9 Як-3 
-dataset/Dataset/data/6861757/table_1|2|123|самолет|47 
-dataset/Dataset/data/5991962/table_3|2|123|самолет|нет 
-dataset/Dataset/data/6848886/table_4|1|123|самолет|И-15 бис Як-1, Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 
-dataset/Dataset/data/5267091/table_1|2|123|самолет|427 
-dataset/Dataset/data/6848684/table_1|1|123|самолет|128 
-dataset/Dataset/data/6226159/table_3|0|123|самолет|11 
-dataset/Dataset/data/6654169/table_1|1|123|самолет|И-15бис И-153 У-2 И-16 Як-9 
-dataset/Dataset/data/6288409/table_2|0|123|самолет|1 
-dataset/Dataset/data/6226216/table_2|2|123|самолет|41 
-dataset/Dataset/data/5952185/table_2|0|123|самолет|32 
-dataset/Dataset/data/6839543/table_1|1|123|самолет|217 
-dataset/Dataset/data/6867360/table_5|0|123|самолет|120 
-dataset/Dataset/data/6474425/table_3|1|123|самолет|И-153 Як-1 Як-9 Як-3 
-dataset/Dataset/data/5425401/table_2|1|123|самолет|ЛаГГ-3 Як-3 Bell P-39 Airacobra Hawker Hurricane Киттихаук Curtiss P-40 
-dataset/Dataset/data/6685518/table_0|1|123|самолет|Встреч с самолётами противника и воздушных боёв не было 
-dataset/Dataset/data/6160940/table_1|2|123|самолет|445 
-dataset/Dataset/data/6848294/table_1|2|123|самолет|249 
-dataset/Dataset/data/5352060/table_1|2|123|самолет|20 лично и 3 в группе 
-dataset/Dataset/data/8423642/table_0|2|123|самолет|7 + 2 7 + 0 
-dataset/Dataset/data/6839376/table_1|1|123|самолет|315 
-dataset/Dataset/data/6861578/table_3|1|123|самолет|ЛаГГ-3 Як-1 Як-3 Кингкобра МиГ-15 МиГ-17 
-dataset/Dataset/data/6061825/table_3|0|123|самолет|20 
-dataset/Dataset/data/5452431/table_6|3|123|самолет|20 
-dataset/Dataset/data/6838869/table_1|1|123|самолет|389 
-dataset/Dataset/data/6864436/table_1|1|123|самолет|433 
-dataset/Dataset/data/6848655/table_3|0|123|самолет|135 
-dataset/Dataset/data/6848786/table_2|2|123|самолет|382 
-dataset/Dataset/data/5342505/table_1|1|123|самолет|369 
-dataset/Dataset/data/5900629/table_3|0|123|самолет|25 
-dataset/Dataset/data/5373276/table_4|1|123|самолет|ЛаГГ-3 Ла-5 Ла-7 МиГ-9 МиГ-15 Як-25М Су-15 Су-15ТМ МиГ-31 
-dataset/Dataset/data/6864762/table_0|4|123|самолет|ТБ-3 Ан-8 
-dataset/Dataset/data/6226159/table_4|1|123|самолет|Як-9 М 
-dataset/Dataset/data/6839305/table_3|1|123|самолет|Як-1 Як-7Б Як-9Д Як-9У 
-dataset/Dataset/data/5424678/table_0|0|123|самолет|Ca.1 Ca.2 Ca.3 Ca.4 Ca.5 Ca.6 Ca.7 Ca.8 Ca.9 Ca.10 Ca.11 Ca.12 Ca.13 Ca.14 Ca.15 Ca.16 Ca.18 Ca.19 Ca.20 Ca.22 Ca.24 Ca.25 Ca.30 Ca.31 Ca.32 Ca.33 Ca.34 Ca.35 Ca.36 Ca.37 Ca.39 Ca.40 Ca.41 Ca.42 Ca.43 Ca.44 Ca.45 Ca.46 Ca.47 Ca.48 Ca.50 Ca.51 Ca.52 Ca.53 Ca.56a Ca.57 Ca.58 Ca.59 Ca.60 Ca.61 Ca.64 Ca.66 Ca.67 Ca.70 Ca.71 Ca.73 Ca.74 Ca.79 Ca.80 Ca.82 Ca.88 Ca.89 Ca.90 Ca.95 Ca.97 Ca.100 Ca.101 Ca.102 Ca.103 Ca.105 Ca.111 Ca.113 Ca.114 Ca.120 Ca.122 Ca.123 Ca.124 Ca.125 Ca.127 Ca.132 Ca.133 Ca.134 Ca.135 Ca.142 Ca.148 Ca.150 Ca.161 Ca.162 Ca.163 Ca.164 Ca.165 Ca.183bis Ca.193 
-dataset/Dataset/data/6849030/table_4|1|123|самолет|Як-1 Як-7б Р-39 «Аэрокобра» Р-63 Кингкобра МиГ-15 МиГ-17 
-dataset/Dataset/data/5723016/table_3|3|123|самолет|16.0 9.0 15.0 17.0 8.0 65.0 
-dataset/Dataset/data/6867364/table_5|0|123|самолет|120 
-dataset/Dataset/data/6848689/table_0|2|123|самолет|810 
-dataset/Dataset/data/6164550/table_2|0|123|самолет|96 
-dataset/Dataset/data/6701069/table_1|1|123|самолет|67 
-dataset/Dataset/data/6847957/table_5|1|123|самолет|58 
-dataset/Dataset/data/6848667/table_4|1|123|самолет|И-153 Ла-5 МиГ-15 
-dataset/Dataset/data/5282109/table_1|2|123|самолет|272 
-dataset/Dataset/data/5382889/table_1|1|123|самолет|306 
-dataset/Dataset/data/6838839/table_1|2|123|самолет|546 
-dataset/Dataset/data/1569213/table_1|2|123|самолет|Ан-26 
-dataset/Dataset/data/6474336/table_1|1|123|самолет|И-5. 
-dataset/Dataset/data/6701089/table_1|2|123|самолет|219 
-dataset/Dataset/data/6838679/table_4|1|123|самолет|Як-1 Як-9 Р-39 «Аэрокобра» 
-dataset/Dataset/data/3719527/table_0|3|123|самолет|И-16 И-16 И-153 Ли-2, Ан-2 И-16 Ла-5 
-dataset/Dataset/data/4779394/table_0|2|123|самолет|Hawker Hurricane Supermarine Spitfire Supermarine Spitfire Supermarine Spitfire 
-dataset/Dataset/data/6466318/table_1|2|123|самолет|14 + 3 7 + 7 
-dataset/Dataset/data/5660292/table_2|1|123|самолет|ЛаГГ-3 
-dataset/Dataset/data/1941716/table_0|0|123|самолет|Embraer E-190 Embraer E-195 Embraer 195-E2 Airbus A321neoLR Airbus A330-900 Neo Boeing 767 Всего 
-dataset/Dataset/data/5969665/table_5|1|123|самолет|И-15бис И-16 И-153 Як-9 МиГ-15 МиГ-17 Су-9 
-dataset/Dataset/data/5929768/table_1|2|123|самолет|162 
-dataset/Dataset/data/6319074/table_1|4|123|самолет|И-15бис Р-63 Кингкобра МиГ-17 МиГ-19 Як-28 П МиГ-31 
-dataset/Dataset/data/6848764/table_4|1|123|самолет|И-16, И-15бис, И-153 Хоукер Харрикейн P-39 Airacobra P-63 Kingcobra 
-dataset/Dataset/data/7896597/table_3|0|123|самолет|94 
-dataset/Dataset/data/6839374/table_1|2|123|самолет|317 
-dataset/Dataset/data/6684900/table_3|4|123|самолет|Р-63 Кингкобра МиГ-17 
-dataset/Dataset/data/5973010/table_3|1|123|самолет|118 
-dataset/Dataset/data/6848741/table_2|2|123|самолет|218 
-dataset/Dataset/data/5241316/table_3|1|123|самолет|Embraer 190 Boeing 737-300 
-dataset/Dataset/data/6848960/table_3|2|123|самолет|96 
-dataset/Dataset/data/5901303/table_4|0|123|самолет|45 
-dataset/Dataset/data/5398851/table_1|2|123|самолет|201 
-dataset/Dataset/data/6848351/table_1|1|123|самолет|299 
-dataset/Dataset/data/6847956/table_5|1|123|самолет|58 
-dataset/Dataset/data/710028/table_21|2|123|самолет|Harbin Z-9 (Китай) Ми-26 Ми-1 Ми-10 Ми-10К Первоначальное обозначение Ка-25 (HORMONE) Ка-10 Ми-28, МИ-28А Ми-28 (1-й прототип) Ми-28 (2-й прототип) Ми-28Н, Ми-28НЭ Ми-14ПЛ, Ми-14ПЛМ Ми-14БТ Ми-14ПС Ка-27, Ка-28 Ка-29ТБ Ка-32С Ка-27ПС Ка-31 Ка-15 Ми-34 Ми-24А ? Ми-24 Ми-24У Ми-24Д, Ми-24ДУ, Ми-25, Ми-25У Ми-24Д Ми-24В, Ми-35 Ми-24ВП Ми-24П, Ми-35П Ми-24РХР Ми-24РА Ми-24К, Ми-24КД Первоначальное обозначение Ми-24К (HIND G2) Ми-24ВМ, Ми-35М В-8 В-8А Ми-8, Ми-8АТ, Ми-8П, Ми-8ПС, Ми-8С, Ми-8Т, Ми-8ТВ Первоначальное обозначение Ми-8ВзПУ (HIP D) Ми-8ВзПУ (Ми-8ВПК) Ми-8ТБ Ми-8ТБК Ми-9 (Ми-8ИВ) Ми-8МТВ, Ми-8МТВ-1, Ми-8МТВ-2, Ми-8МТВ-3, Ми-17, Ми-17-1В, Ми-17П, Ми-171 Ми-8МТП, Ми-17П ? Ми-8МТПБ, Ми-17ПП Ми-8МТШ2 Ми-13 (Ми-8МТИ), Ми-17ПИ Ми-8МТШ3 Ми-8СМВ Ми-8ППА Ми-8МТВ-5 / Ми-17В-5 / Ми-172 Ка-18 Ка-50 Камов В-80.01 (1-й прототип) Камов В-80.02 (2-й прототип) Ка-52 Миль В-12 Ка-26 Ка-126 Ка-226 Ми-6, Ми-6А, Ми-6Т Ми-6ВКП Ми-22 (Ми-6АЯ) Ми-6АЯШ Ка-22 Ми-2 Ка-25ПЛ, Ка-25ПЛС, Ка-25ПЛФ Ка-25Ц Ка-25ПС, Ка-25ИВ Як-24 Ми-4, Ми-4А Ми-4МР Ми-4МК (Ми-4ПП) 
-dataset/Dataset/data/6864740/table_3|1|123|самолет|МиГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 Як-28П Су-15ТМ 
-dataset/Dataset/data/6861568/table_2|0|123|самолет|97 
+dataset/Dataset/data/550677/table_2|2|123|самолет|Boeing 787, Airbus A350 Boeing 737-300, Airbus серии А320 (модели А318, А319 и А321), Airbus А340-300 Boeing 777 Airbus A380 
+dataset/Dataset/data/550677/table_4|2|123|самолет|Cessna Citation I, SIAI Marchetti S.211, Beechjet 400A, Cessna T-47A Learjet 60, Cessna Citation Sovereign, Gulfstream G200, Hawker 4000, Dassault Falcon 2000EX, Dassault Falcon 7X, Fairchild-Dornier 328JET и White Knight Two Beech-18, Air Tractor AT-400, Ayres Thrush и т. п.Вертолёты: Sikorsky S-76, AgustaWestland AW119, AgustaWestland AW13, Bell 212 
+dataset/Dataset/data/5590757/table_3|0|123|самолет|н/д 
+dataset/Dataset/data/5605083/table_6|4|123|самолет|114 
+dataset/Dataset/data/5605083/table_6|1|123|самолет|225 
+dataset/Dataset/data/5605083/table_6|2|123|самолет|254 
+dataset/Dataset/data/5608285/table_5|1|123|самолет|56 
+dataset/Dataset/data/5608285/table_5|0|123|самолет|120 
+dataset/Dataset/data/5637916/table_5|1|123|самолет|И-15 бис И-16 И-153 Як-1 Як-7Б Як-9 Як-3 Ла-9 МиГ-15 МиГ-17 УТИ МиГ-15, Су-7У, Су-17 Су-17М3, Су-17УМ3 Су-24, Су-24МР Су-24, Су-24МР, Су-30СМ, Ту-134-А4 . 
+dataset/Dataset/data/5649395/table_3|1|123|самолет|Як-9 МиГ-15 МиГ-17 
+dataset/Dataset/data/5654864/table_3|1|123|самолет|98 
+dataset/Dataset/data/5661268/table_2|1|123|самолет|ЛаГГ-3 
+dataset/Dataset/data/5666963/table_2|1|123|самолет|51 
+dataset/Dataset/data/5666963/table_2|2|123|самолет|64 
+dataset/Dataset/data/5668066/table_4|1|123|самолет|И-16 И-153 Як-7Б Як-9Т Як-1Б Як-3 МиГ-15 МиГ-17 
+dataset/Dataset/data/5671432/table_2|1|123|самолет|И-16 Як-1 
+dataset/Dataset/data/5682305/table_2|2|123|самолет|142 
+dataset/Dataset/data/5682305/table_2|3|123|самолет|147 
+dataset/Dataset/data/5682307/table_4|1|123|самолет|И-15 бис Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 МиГ-19, Як-25 Л-29 Л-39 МиГ-23 
+dataset/Dataset/data/5710226/table_2|1|123|самолет|25 
+dataset/Dataset/data/5716489/table_3|0|123|самолет|18 
+dataset/Dataset/data/5716489/table_4|1|123|самолет|И-16 ЛаГГ-3 Харрикейн Як-1 
+dataset/Dataset/data/5745692/table_2|2|123|самолет|26 
+dataset/Dataset/data/5745692/table_5|1|123|самолет|И-16 ЛаГГ-3 МиГ-3 Як-1 Як-7 Як-9 МиГ-15 МиГ-19СВ МиГ-21ПФМ МиГ-23 М МиГ-23 МЛА МиГ-23 МЛД 
+dataset/Dataset/data/5748828/table_5|1|123|самолет|Варнемюнде, Германия Ключево, Польша 
+dataset/Dataset/data/5749152/table_4|1|123|самолет|Як-1 Як-9 МиГ-15 МиГ-17 
+dataset/Dataset/data/5761781/table_5|1|123|самолет|Як-1 ЛаГГ-3 Як-9 МиГ-15 МиГ-17 П, ПФ Ту-128 МиГ-31 
+dataset/Dataset/data/5761796/table_3|0|123|самолет|123 
+dataset/Dataset/data/5761796/table_4|3|123|самолет|15 
+dataset/Dataset/data/5761796/table_4|1|123|самолет|26 
+dataset/Dataset/data/5761796/table_4|0|123|самолет|38 
+dataset/Dataset/data/5811250/table_3|1|123|самолет|И-15, И-16 МиГ-3 Ла-5 Як-1 Як-7Б P-39 Airacobra 
+dataset/Dataset/data/5825853/table_3|2|123|самолет|289 
+dataset/Dataset/data/5825853/table_3|1|123|самолет|287 
+dataset/Dataset/data/5825853/table_5|1|123|самолет|И-153 Ла-5 Ла-7 
+dataset/Dataset/data/5847850/table_5|1|123|самолет|И-15 бис И-16 И-153 Як-1 Як-7Б Як-9 Як-3 Ла-9 МиГ-15 МиГ-17 УТИ МиГ-15, Су-7У, Су-17 Су-17М3, Су-17УМ3 Су-24, Су-24МР Су-24, Су-24МР, Су-30СМ, Ту-134-А4 . 
+dataset/Dataset/data/5847851/table_2|2|123|самолет|509 
+dataset/Dataset/data/5847851/table_2|1|123|самолет|460 
+dataset/Dataset/data/587183/table_0|1|123|самолет|УТ-1 УТ-1 гидро УТ-2 гидро УТ-2 гидро АИР-12 АНТ-37 «Родина» 
+dataset/Dataset/data/587907/table_0|1|123|самолет|УТ-1 УТ-1 гидро УТ-2 гидро УТ-2 гидро АИР-12 АНТ-37 «Родина» 
+dataset/Dataset/data/5900629/table_1|2|123|самолет|133 
+dataset/Dataset/data/5900629/table_1|1|123|самолет|122 
+dataset/Dataset/data/5900630/table_1|2|123|самолет|133 
+dataset/Dataset/data/5900630/table_1|1|123|самолет|122 
+dataset/Dataset/data/5900630/table_4|1|123|самолет|И-16 И-15БИС МиГ-3 Як-1 P-39 Airacobra P-63 Kingcobra МиГ-15 МиГ-17 
+dataset/Dataset/data/5900675/table_4|1|123|самолет|И-16 И-15БИС МиГ-3 Як-1 P-39 Airacobra P-63 Kingcobra МиГ-15 МиГ-17 
+dataset/Dataset/data/5918860/table_2|0|123|самолет|108 
+dataset/Dataset/data/5918934/table_2|0|123|самолет|108 
+dataset/Dataset/data/5921167/table_2|0|123|самолет|36 
+dataset/Dataset/data/5921189/table_3|1|123|самолет|И-16 И-15бис Як-1 
+dataset/Dataset/data/5922264/table_3|2|123|самолет|6 + 1 5 + 7 
+dataset/Dataset/data/5923916/table_1|2|123|самолет|7 + 2 
+dataset/Dataset/data/5923916/table_4|1|123|самолет|Як-1 
+dataset/Dataset/data/5924833/table_1|2|123|самолет|96 
+dataset/Dataset/data/5925927/table_1|2|123|самолет|5 + 1 
+dataset/Dataset/data/5930925/table_5|1|123|самолет|Як-1 Як-7 Як-9 Як-3 МиГ-15 МиГ-17 
+dataset/Dataset/data/5930950/table_3|2|123|самолет|40 
+dataset/Dataset/data/5932168/table_1|2|123|самолет|7 + 5 
+dataset/Dataset/data/5932170/table_1|2|123|самолет|7 + 5 
+dataset/Dataset/data/5934484/table_2|0|123|самолет|103 
+dataset/Dataset/data/5944255/table_1|1|123|самолет|58 
+dataset/Dataset/data/5944255/table_1|2|123|самолет|111 
+dataset/Dataset/data/5952185/table_3|1|123|самолет|ЛаГГ-3 И-16 
+dataset/Dataset/data/5959772/table_1|2|123|самолет|45 
+dataset/Dataset/data/5962916/table_3|0|123|самолет|3 (1) 
+dataset/Dataset/data/5969666/table_5|1|123|самолет|И-15бис И-16 И-153 Як-9 МиГ-15 МиГ-17 Су-9 
+dataset/Dataset/data/5973007/table_5|1|123|самолет|И-15бис И-16 И-153 Як-7б Як-9 МиГ-15 МиГ-17 
+dataset/Dataset/data/5975636/table_1|2|123|самолет|6 7 6 17 + 1 5 5 5 
+dataset/Dataset/data/5975636/table_4|1|123|самолет|И-16 Як-9 Як-39 МиГ-15 МиГ-17 
+dataset/Dataset/data/5975644/table_2|2|123|самолет|89 
+dataset/Dataset/data/5975644/table_2|1|123|самолет|79 
+dataset/Dataset/data/5977379/table_2|1|123|самолет|17 
+dataset/Dataset/data/6058118/table_1|2|123|самолет|0 
+dataset/Dataset/data/6058118/table_1|1|123|самолет|Встреч с самолётами противника, воздушных боёв и боевых потерь не было 
+dataset/Dataset/data/6061473/table_0|1|123|самолет|Airbus A319-100 Airbus A320-200 Airbus A321-200 Airbus A320neo Всего: 
+dataset/Dataset/data/6065257/table_1|2|123|самолет|17 + 0 10+0 5 + 0 5 + 0 10 + 0 5 + 0 26 + 0 6 + 0 7 + 0 11 (14) + 0 (2) 5 + 0 8 + 0 41 + 1 29 + 0 7 + 0 19 + 0 7 + 0 6 + 0 9 + 0 16 + 1 19 + 0 (1) 7 + 0 13 + 0 9 + 0 12 + 0 5 + 0 
+dataset/Dataset/data/6074369/table_1|2|123|самолет|14 + 10 9 + 3 5 + 2 
+dataset/Dataset/data/6076793/table_1|1|123|самолет|35 
+dataset/Dataset/data/6084672/table_1|1|123|самолет|И-16, И-15бис, И-153 Хоукер Харрикейн P-39 Airacobra 
+dataset/Dataset/data/6102423/table_1|2|123|самолет|7 + 1 14 + 3 5 + 4 7 + 0 19 + 5 6 + 4 17 + 8 8 + 6 21 + 7 16 + 3 16 + 8 6 + 3 8 + 2 7 + 0 6 + 0 19 + 0 7 + 1 (10 + 1) 5 + 1 (+ 1 аэростат) 10 + 4 16 + 2 7 + 0 5 + 0 6 + 0 15 + 4 
+dataset/Dataset/data/6105153/table_2|0|123|самолет|132 
+dataset/Dataset/data/6161063/table_2|0|123|самолет|99 
+dataset/Dataset/data/6161136/table_0|2|123|самолет|511 
+dataset/Dataset/data/6161136/table_0|1|123|самолет|406 
+dataset/Dataset/data/6161136/table_1|0|123|самолет|127 
+dataset/Dataset/data/6161145/table_2|0|123|самолет|76 
+dataset/Dataset/data/6164552/table_3|0|123|самолет|33 
+dataset/Dataset/data/6215669/table_2|0|123|самолет|176 
+dataset/Dataset/data/6224113/table_1|2|123|самолет|6 + 1 12 + 7 (12 + 3) 30 + 0 5 + 0 13 + 2 6 + 13 7 + 4 7 + 2 15 + 6 12 + 0 
+dataset/Dataset/data/6226159/table_1|2|123|самолет|6 + 0 
 dataset/Dataset/data/6226216/table_4|1|123|самолет|И-153 Як-7Б Як-9 Л, Т 
-dataset/Dataset/data/8422661/table_6|2|123|самолет|48 
-dataset/Dataset/data/6848227/table_1|0|123|самолет|79 
-dataset/Dataset/data/6274061/table_3|1|123|самолет|И-15бис И-16 Як-9 МиГ-15 МиГ-17 МиГ-21 ПФМ МиГ-23 БМ МиГ-27 
-dataset/Dataset/data/6229434/table_5|1|123|самолет|И-16 МиГ-3 ЛаГГ-3 Ла-5 Ла-7 МиГ-15УТИ МиГ-17 
-dataset/Dataset/data/6848657/table_4|1|123|самолет|И-16 Як-7 Як-1 Як-1Б Як-9 Як-3 
-dataset/Dataset/data/6864437/table_1|1|123|самолет|433 
-dataset/Dataset/data/6848854/table_1|2|123|самолет|164 
-dataset/Dataset/data/5953187/table_2|1|123|самолет|И-16 У-2 
-dataset/Dataset/data/5969666/table_3|2|123|самолет|0 
-dataset/Dataset/data/5381180/table_3|1|123|самолет|И-16 МиГ-1 МиГ-3 Як-1 Як-7 Як-9 Як-3 Як-9Д Р-63 Кингкобра МиГ-15 МиГ-17 МиГ-21 МиГ-29 
-dataset/Dataset/data/6685936/table_4|4|123|самолет|Як-1 
-dataset/Dataset/data/6160940/table_2|0|123|самолет|111 
-dataset/Dataset/data/2410536/table_0|0|123|самолет|Airbus A319-100 Airbus A320-200 Boeing 737—300 Boeing 737—700 
-dataset/Dataset/data/6848836/table_1|2|123|самолет|342 
-dataset/Dataset/data/6848664/table_2|2|123|самолет|155 
-dataset/Dataset/data/6864658/table_1|1|123|самолет|247 
-dataset/Dataset/data/5424678/table_6|0|123|самолет|Trento F.5 
-dataset/Dataset/data/5316582/table_4|1|123|самолет|ЛаГГ-3 Як-1 Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 МиГ-19 МиГ-21 МиГ-23 Ми-14ПЛ 
+dataset/Dataset/data/6227678/table_3|0|123|самолет|132 
+dataset/Dataset/data/6229434/table_3|2|123|самолет|14 + 1 
+dataset/Dataset/data/6272438/table_1|2|123|самолет|5 + 0 15 + 0 5 + 0 6 + 0 10 + 5 6 + 1 8 + 3 7 + 1 17 + 2 13 + 1 6 + 0 8 + 0 5 + 2 16 + 1 8 + 3 6 + 0 5 + 0 7 + 9 [7 + 3] 5 + 0 5 + 0 8 + 3 12 + 3 
+dataset/Dataset/data/6272480/table_1|2|123|самолет|5 + 0 15 + 0 5 + 0 6 + 0 10 + 5 6 + 1 8 + 3 7 + 1 17 + 2 13 + 1 6 + 0 8 + 0 5 + 2 16 + 1 8 + 3 6 + 0 5 + 0 7 + 9 [7 + 3] 5 + 0 5 + 0 8 + 3 12 + 3 
+dataset/Dataset/data/6274704/table_3|1|123|самолет|И-15бис И-16 Як-9 Як-9У Як-11 P-63 Kingcobra МиГ-15 МиГ-17 Су-9 МиГ-23М, МЛД 
+dataset/Dataset/data/6276499/table_1|1|123|самолет|Встреч с самолётами противника и воздушных боев не было 
+dataset/Dataset/data/6276504/table_1|1|123|самолет|Встреч с самолётами противника и воздушных боев не было 
+dataset/Dataset/data/6285759/table_2|2|123|самолет|1 
+dataset/Dataset/data/6290235/table_3|1|123|самолет|И-15бис И-16 Як-9 P-63 Kingcobra МиГ-15 МиГ-17 МиГ-21 СМ МиГ-21 БИС МиГ-23 МЛД 
+dataset/Dataset/data/6290959/table_2|1|123|самолет|Як-40 Ту-154 Ту-154 
+dataset/Dataset/data/6294386/table_5|2|123|самолет|5+0 19 + 0 6 + 0 28 + 10 5 + 1 
+dataset/Dataset/data/6294388/table_5|2|123|самолет|5+0 19 + 0 6 + 0 28 + 10 5 + 1 
+dataset/Dataset/data/6294388/table_6|4|123|самолет|И-153 Ла-5 Як-3 Ла-9 МиГ-15 
+dataset/Dataset/data/6294388/table_6|1|123|самолет|И-16 Як-7б Як-9 Ла-7 Ла-11 МиГ-17 
+dataset/Dataset/data/6319083/table_1|1|123|самолет|Р-3 Ил-2 МиГ-15 Як-25М Су-9 Су-15 
+dataset/Dataset/data/6319083/table_1|4|123|самолет|И-15бис Р-63 Кингкобра МиГ-17 МиГ-19 Як-28 П МиГ-31 
+dataset/Dataset/data/6330583/table_0|2|123|самолет|5 F-86 
+dataset/Dataset/data/6330840/table_0|4|123|самолет|И-16 Як-9 У, М. Т, Д МиГ-17 
+dataset/Dataset/data/6330840/table_0|1|123|самолет|И-15бис Як-9 МиГ-15 
+dataset/Dataset/data/6413738/table_0|2|123|самолет|5 + 0 12 + 3 7 + 3 
+dataset/Dataset/data/6435397/table_3|0|123|самолет|88 
+dataset/Dataset/data/6452449/table_2|0|123|самолет|35 
+dataset/Dataset/data/6452449/table_2|3|123|самолет|9 
+dataset/Dataset/data/6466318/table_1|2|123|самолет|14 + 3 7 + 7 
+dataset/Dataset/data/6466343/table_3|0|123|самолет|7 (боевые — 4; небоевые — 3) 
+dataset/Dataset/data/6468145/table_4|4|123|самолет|Як-1 
+dataset/Dataset/data/6468145/table_4|1|123|самолет|ЛаГГ-3 
+dataset/Dataset/data/6469377/table_4|1|123|самолет|Як-1 
+dataset/Dataset/data/6469777/table_1|1|123|самолет|43 
+dataset/Dataset/data/6469777/table_1|2|123|самолет|63 
+dataset/Dataset/data/6470591/table_0|2|123|самолет|5 + 2 6 + 4 
+dataset/Dataset/data/6474361/table_2|1|123|самолет|И-5 Як-1 
+dataset/Dataset/data/6482388/table_3|0|123|самолет|110 
+dataset/Dataset/data/6540009/table_2|2|123|самолет|Pescara 2F ЦАГИ 1-ЭА Focke-Wulf Fw 61 Focke Achgelis Fa 223 Sikorsky R-4 Flettner Fl 282 Ка-8 ЭГ Ми-1 Як-24 Ка-25 Ми-12 Ми-24 
+dataset/Dataset/data/6543968/table_2|1|123|самолет|22 
+dataset/Dataset/data/6574508/table_1|3|123|самолет|Boeing 737—300 Boeing 737—300 Boeing 737—300 
+dataset/Dataset/data/6623542/table_2|1|123|самолет|25 
+dataset/Dataset/data/6623542/table_5|1|123|самолет|Як-1 Харрикейн Як-9 МиГ-15 Су-9 МиГ-23М, МЛ, МЛД 
+dataset/Dataset/data/6664833/table_2|2|123|самолет|7 + 2 28 + 5 7 + 2 12 + 1 14 + 0 5 + 2 
+dataset/Dataset/data/6666482/table_3|0|123|самолет|50 
+dataset/Dataset/data/6673671/table_1|2|123|самолет|120 
+dataset/Dataset/data/6679962/table_1|4|123|самолет|Як-1 
+dataset/Dataset/data/6679962/table_1|1|123|самолет|И-15 
+dataset/Dataset/data/6684855/table_1|2|123|самолет|23 + 1 аэростат 
+dataset/Dataset/data/6685616/table_3|1|123|самолет|И-16 МиГ-1, МиГ-3 Киттхаук (Curtiss P-40) 
+dataset/Dataset/data/6687074/table_1|2|123|самолет|15 + 1 12 + 3 10 + 6 10 + 4 8 + 0 7 + 4 7 + 1 6 + 3 6 + 2 5 + 3 5 + 1 
+dataset/Dataset/data/6687980/table_4|1|123|самолет|И-153 МиГ-3 ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 Ф, ПФ МиГ-19С МиГ-21ПФМ МиГ-23М МиГ-29 
+dataset/Dataset/data/6698195/table_1|1|123|самолет|СБ Пе-2 Ил-28 
+dataset/Dataset/data/6698315/table_3|2|123|самолет|96 
+dataset/Dataset/data/6698316/table_2|0|123|самолет|99 
+dataset/Dataset/data/6698318/table_1|2|123|самолет|427 
+dataset/Dataset/data/6698318/table_1|1|123|самолет|407 
+dataset/Dataset/data/6698318/table_3|2|123|самолет|96 
+dataset/Dataset/data/6698320/table_5|1|123|самолет|И-16, И-15 бис, Як-1 Як-7Б P-51 Як-3 Як-7 Як-9, МиГ-9 МиГ-15 МиГ-17 МиГ-21БИС, в 3-й аэ МиГ-21БИС-М с 1980 г. С 1982 г. МиГ-21СМ, в 3-й аэ 1 с-т МиГ-21СМТ МиГ-27 Д, К (МиГ-27К — 1-я аэ, МиГ-27Д — 2-я аэ и 3-я аэ) Су-25 Су-25СМ 
+dataset/Dataset/data/6698374/table_1|1|123|самолет|398 
+dataset/Dataset/data/6698374/table_1|2|123|самолет|402 
+dataset/Dataset/data/6701095/table_2|0|123|самолет|174 
+dataset/Dataset/data/6718716/table_1|3|123|самолет|МиГ-15 истребитель F-100 Super Sabre истребительбомбардировщикразведчик 
+dataset/Dataset/data/6718716/table_1|6|123|самолет|F-86 Sabre истребительбомбардировщик МиГ-19 истребитель 
+dataset/Dataset/data/6718716/table_1|0|123|самолет|F-84 Thunderjet истребительбомбардировщик Ту-16 многоцелевой 
+dataset/Dataset/data/6718716/table_1|9|123|самолет|МиГ-17 истребитель Lockheed U-2 разведчик 
+dataset/Dataset/data/6838632/table_5|1|123|самолет|И-16 Як-1 Як-7Б Як-9 Як-3 Ла-11 МиГ-15бис МиГ-17 
+dataset/Dataset/data/6838674/table_2|2|123|самолет|6 7 6 6 8 7 5 9 
+dataset/Dataset/data/6838683/table_2|0|123|самолет|76 
+dataset/Dataset/data/6838748/table_4|1|123|самолет|ЛаГГ-3 Як-1, Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 
+dataset/Dataset/data/6838754/table_4|1|123|самолет|ЛаГГ-3 Як-1, Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 
+dataset/Dataset/data/6838755/table_4|1|123|самолет|ЛаГГ-3 Як-1, Як-7Б Як-9 Як-3 МиГ-15 МиГ-17 
+dataset/Dataset/data/6838758/table_2|0|123|самолет|86 
+dataset/Dataset/data/6838810/table_2|0|123|самолет|122 
+dataset/Dataset/data/6838839/table_2|0|123|самолет|201 
+dataset/Dataset/data/6838853/table_1|2|123|самолет|302 
+dataset/Dataset/data/6838853/table_1|1|123|самолет|302 
+dataset/Dataset/data/6838873/table_2|0|123|самолет|111 
+dataset/Dataset/data/6838874/table_1|2|123|самолет|445 
+dataset/Dataset/data/6838874/table_1|1|123|самолет|389 
+dataset/Dataset/data/6838920/table_2|1|123|самолет|79 
+dataset/Dataset/data/6838920/table_2|2|123|самолет|89 
+dataset/Dataset/data/6838920/table_4|1|123|самолет|И-16 Як-9 Як-39 МиГ-15 МиГ-17 
+dataset/Dataset/data/6838921/table_0|2|123|самолет|10 + 0 
+dataset/Dataset/data/6838951/table_3|1|123|самолет|287 
+dataset/Dataset/data/6838951/table_3|2|123|самолет|289 
+dataset/Dataset/data/6838951/table_5|1|123|самолет|И-153 Ла-5 Ла-7 
+dataset/Dataset/data/6838955/table_1|2|123|самолет|9 + 4 9 + 0 5 + 0 6 + 1 10 + 0 17 + 0 (+ 1 аэростат) 15 + 0 16 + 4 6 + 0 11 + 1 16 + 1 7 + 0 6 + 0 9 + 1 13 + 2 6 + 0 
+dataset/Dataset/data/6838961/table_2|0|123|самолет|130 
+dataset/Dataset/data/6838964/table_3|2|123|самолет|5 + 1 5 + 0 28 + 5 9 + 2 12 + 3 6 + 1 
+dataset/Dataset/data/6838977/table_4|1|123|самолет|ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 МиГ-19 МиГ-21Ф13 МиГ-21СМ, СМТ МиГ-21бис МиГ-29 
+dataset/Dataset/data/6838983/table_4|1|123|самолет|ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 МиГ-19 МиГ-21Ф13 МиГ-21СМ, СМТ МиГ-21бис МиГ-29 
+dataset/Dataset/data/6839057/table_1|3|123|самолет|214 
+dataset/Dataset/data/6839057/table_1|2|123|самолет|896 
+dataset/Dataset/data/6839057/table_1|4|123|самолет|95 
+dataset/Dataset/data/6839220/table_1|1|123|самолет|369 
+dataset/Dataset/data/6839220/table_1|2|123|самолет|387 
+dataset/Dataset/data/6839221/table_2|0|123|самолет|169 
+dataset/Dataset/data/6839223/table_2|0|123|самолет|169 
+dataset/Dataset/data/6839225/table_1|2|123|самолет|387 
+dataset/Dataset/data/6839225/table_1|1|123|самолет|369 
+dataset/Dataset/data/6839269/table_3|1|123|самолет|И-16 И-153 МиГ-3 ЛаГГ-3 Як-1 Як-9 Як-3 P-63 Kingcobra МиГ-15 МиГ-17Ф, ПФ МиГ-21ПФ МиГ-21СМТ МиГ-23М МиГ-29 
+dataset/Dataset/data/6839270/table_1|2|123|самолет|398 
+dataset/Dataset/data/6839270/table_1|1|123|самолет|375 
+dataset/Dataset/data/6839270/table_3|1|123|самолет|И-16 И-153 МиГ-3 ЛаГГ-3 Як-1 Як-9 Як-3 P-63 Kingcobra МиГ-15 МиГ-17Ф, ПФ МиГ-21ПФ МиГ-21СМТ МиГ-23М МиГ-29 
+dataset/Dataset/data/6839271/table_2|0|123|самолет|225 
+dataset/Dataset/data/6839273/table_2|0|123|самолет|225 
+dataset/Dataset/data/6839274/table_1|1|123|самолет|375 
+dataset/Dataset/data/6839274/table_1|2|123|самолет|398 
+dataset/Dataset/data/6839276/table_3|1|123|самолет|И-16 ЛаГГ-3 Ла-5 Ла-7 
+dataset/Dataset/data/6839304/table_2|0|123|самолет|132 
+dataset/Dataset/data/6839374/table_3|1|123|самолет|Як-1 Як-9 
+dataset/Dataset/data/6839376/table_1|2|123|самолет|317 
+dataset/Dataset/data/6839376/table_1|1|123|самолет|315 
+dataset/Dataset/data/6839379/table_4|1|123|самолет|И-153 МиГ-3 ЛаГГ-3 Як-1 Як-7Б Як-9 Як-3 
+dataset/Dataset/data/6839383/table_1|2|123|самолет|385 
+dataset/Dataset/data/6839383/table_1|1|123|самолет|371 
+dataset/Dataset/data/6839392/table_4|1|123|самолет|И-15 бис МиГ-3 ЛаГГ-3 Ла-5 Ла-7 МиГ-15УТИ МиГ-17 Як-25 
+dataset/Dataset/data/6839393/table_2|0|123|самолет|223 
+dataset/Dataset/data/6839495/table_3|0|123|самолет|29 
 dataset/Dataset/data/6839495/table_4|1|123|самолет|И-15бис И-16 И-153 Як-9 
-dataset/Dataset/data/6867743/table_2|1|123|самолет|262 
-dataset/Dataset/data/6864762/table_0|1|123|самолет|ТБ-7 (Пе-8) Ли-2 Ми-4 
-dataset/Dataset/data/6864402/table_1|1|123|самолет|213 
-dataset/Dataset/data/8487286/table_6|0|123|самолет|80 
-dataset/Dataset/data/5631188/table_2|2|123|самолет|425 
-dataset/Dataset/data/6842235/table_4|2|123|самолет|360 
-dataset/Dataset/data/8421861/table_0|2|123|самолет|6 + 6 3 + 6 
-dataset/Dataset/data/5959902/table_1|2|123|самолет|45 
-dataset/Dataset/data/5930985/table_1|1|123|самолет|Як-1 Як-7 Як-9 
+dataset/Dataset/data/6839538/table_4|1|123|самолет|И-15 бис И-16 И-153 ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 
 dataset/Dataset/data/6839544/table_2|0|123|самолет|86 
-dataset/Dataset/data/6867490/table_3|2|123|самолет|238 
-dataset/Dataset/data/6867767/table_1|2|123|самолет|267 (+ 2 аэростата) 
-dataset/Dataset/data/6849042/table_1|2|123|самолет|214 
-dataset/Dataset/data/7734899/table_2|0|123|самолет|111 
-dataset/Dataset/data/6839224/table_1|2|123|самолет|387 
-dataset/Dataset/data/6579501/table_0|1|123|самолет|По-2 И-15бис И-16 Як-9 P-63 Kingcobra МиГ-15 МиГ-17 
-dataset/Dataset/data/6698316/table_4|0|123|самолет|18 
-dataset/Dataset/data/6864563/table_6|1|123|самолет|Варнемюнде, Германия Ключево, Польша Колобжег, Польша Бжег, Польша Смоленск-Северный, Смоленская область 
-dataset/Dataset/data/5977379/table_1|2|123|самолет|42 
-dataset/Dataset/data/6848235/table_1|1|123|самолет|50 
-dataset/Dataset/data/5444882/table_1|2|123|самолет|0 
-dataset/Dataset/data/6848361/table_1|2|123|самолет|402 
-dataset/Dataset/data/5316588/table_1|1|123|самолет|451 
-dataset/Dataset/data/5338331/table_1|1|123|самолет|284 
-dataset/Dataset/data/294102/table_1|0|123|самолет|ATR 42–300 De Havilland Canada Dash 7 Всего 
-dataset/Dataset/data/5252499/table_1|2|123|самолет|308 
-dataset/Dataset/data/5424711/table_3|1|123|самолет|ЛаГГ-3 Як-7б Як-9 Як-3 
-dataset/Dataset/data/8420962/table_0|2|123|самолет|5 + 12 6 + 8 
-dataset/Dataset/data/6838869/table_6|1|123|самолет|И-15бис И-153 И-16 ЛаГГ-3 Ла-5 Ла-7 Ла-9, Ла-11 МиГ-15 МиГ-17 
-dataset/Dataset/data/5668066/table_2|2|123|самолет|267 
-dataset/Dataset/data/5344322/table_1|1|123|самолет|23 
-dataset/Dataset/data/6466318/table_4|1|123|самолет|ЛаГГ-3 
-dataset/Dataset/data/5918860/table_3|1|123|самолет|ЛаГГ-3 Як-1 Як-7 Як-9 МиГ-15 МиГ-17 МиГ-19 Су-15 
-dataset/Dataset/data/6864668/table_1|1|123|самолет|379 
-dataset/Dataset/data/6685936/table_4|1|123|самолет|Як-7б Як-9 
-dataset/Dataset/data/5625043/table_3|2|123|самолет|0 
-dataset/Dataset/data/6848981/table_1|2|123|самолет|371 
-dataset/Dataset/data/6848772/table_4|1|123|самолет|Як-1 ЛаГГ-3 Як-7б Як-9 Як-3 P-63 Kingcobra МиГ-9 МиГ-15 МиГ-17 
-dataset/Dataset/data/6838819/table_1|2|123|самолет|437 
-dataset/Dataset/data/5651890/table_4|1|123|самолет|И-153 Як-9Т, Д, У Як-9П МиГ-15 МиГ-17 
-dataset/Dataset/data/6861757/table_3|4|123|самолет|25 (15 И-16, 10 И-153) 
-dataset/Dataset/data/5921146/table_1|2|123|самолет|116 
+dataset/Dataset/data/6839582/table_1|1|123|самолет|СБ Ар-2 Пе-2 Ил-28 
+dataset/Dataset/data/6839584/table_1|1|123|самолет|СБ Ар-2 Пе-2 Ил-28 
+dataset/Dataset/data/6839586/table_1|1|123|самолет|СБ Пе-2 Ил-28 
+dataset/Dataset/data/6839588/table_1|1|123|самолет|СБ Пе-2 Ил-28 
+dataset/Dataset/data/6841644/table_6|4|123|самолет|114 
+dataset/Dataset/data/6841644/table_6|1|123|самолет|225 
+dataset/Dataset/data/6841644/table_6|2|123|самолет|254 
+dataset/Dataset/data/6841645/table_6|1|123|самолет|225 
+dataset/Dataset/data/6841645/table_6|4|123|самолет|114 
+dataset/Dataset/data/6841645/table_6|2|123|самолет|254 
+dataset/Dataset/data/6841646/table_6|2|123|самолет|254 
+dataset/Dataset/data/6841646/table_6|4|123|самолет|114 
+dataset/Dataset/data/6841646/table_6|1|123|самолет|225 
+dataset/Dataset/data/6848228/table_0|1|123|самолет|101 
+dataset/Dataset/data/6848228/table_0|2|123|самолет|113 
+dataset/Dataset/data/6848229/table_1|0|123|самолет|79 
+dataset/Dataset/data/6848281/table_1|2|123|самолет|454 
+dataset/Dataset/data/6848281/table_1|1|123|самолет|423 
+dataset/Dataset/data/6848292/table_1|2|123|самолет|249 
+dataset/Dataset/data/6848292/table_1|1|123|самолет|224 
+dataset/Dataset/data/6848341/table_1|1|123|самолет|252 
+dataset/Dataset/data/6848341/table_1|2|123|самолет|307 
+dataset/Dataset/data/6848355/table_0|1|123|самолет|406 
+dataset/Dataset/data/6848355/table_0|2|123|самолет|511 
+dataset/Dataset/data/6848360/table_1|1|123|самолет|398 
+dataset/Dataset/data/6848360/table_1|2|123|самолет|402 
+dataset/Dataset/data/6848638/table_2|2|123|самолет|141 
+dataset/Dataset/data/6848640/table_4|1|123|самолет|ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 МиГ-19 МиГ-23 МиГ-23МЛ, МЛД 
+dataset/Dataset/data/6848641/table_2|2|123|самолет|141 
+dataset/Dataset/data/6848646/table_4|1|123|самолет|ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 МиГ-19 МиГ-23 МиГ-23МЛ, МЛД 
+dataset/Dataset/data/6848648/table_4|1|123|самолет|ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 МиГ-19 МиГ-23 МиГ-23МЛ, МЛД 
+dataset/Dataset/data/6848659/table_4|1|123|самолет|И-16 Як-7 Як-1 Як-1Б Як-9 Як-3 
+dataset/Dataset/data/6848669/table_4|4|123|самолет|ЛаГГ-3 Ла-7 МиГ-17 
+dataset/Dataset/data/6848669/table_4|1|123|самолет|И-153 Ла-5 МиГ-15 
+dataset/Dataset/data/6848685/table_2|0|123|самолет|90 
+dataset/Dataset/data/6848744/table_3|0|123|самолет|124 
+dataset/Dataset/data/6848745/table_2|2|123|самолет|218 
+dataset/Dataset/data/6848745/table_2|1|123|самолет|209 
+dataset/Dataset/data/6848771/table_3|0|123|самолет|132 
+dataset/Dataset/data/6848774/table_4|1|123|самолет|Як-1 ЛаГГ-3 Як-7б Як-9 Як-3 P-63 Kingcobra МиГ-9 МиГ-15 МиГ-17 
+dataset/Dataset/data/6848776/table_3|0|123|самолет|132 
+dataset/Dataset/data/6848784/table_3|0|123|самолет|116 
+dataset/Dataset/data/6848785/table_1|2|123|самолет|5 + 0 9 + 1 17 + 0 (2) 11 + 1 18 + 0 5 + 0 5 + 0 9 + 1 9 + 0 27 + 2 (7 + 0) 29 + 1 8 + 0 7 + 3 8 + 0 6 + 0 10 + 1 12 + 1 6 + 0 9 + 4 5 + 0 5 + 0 15 + 0 10 + 12 7 + 0 14 + 10 8 + 2 (13 + 8) 6 + 0 44 + 2 7 + 9 [7 + 3] 13 + 0 9 + 1 16 + 2 
+dataset/Dataset/data/6848788/table_2|2|123|самолет|382 
+dataset/Dataset/data/6848788/table_2|1|123|самолет|346 
+dataset/Dataset/data/6848790/table_1|2|123|самолет|5 + 0 9 + 1 17 + 0 (2) 11 + 1 18 + 0 5 + 0 5 + 0 9 + 1 9 + 0 27 + 2 (7 + 0) 29 + 1 8 + 0 7 + 3 8 + 0 6 + 0 10 + 1 12 + 1 6 + 0 9 + 4 5 + 0 5 + 0 15 + 0 10 + 12 7 + 0 14 + 10 8 + 2 (13 + 8) 6 + 0 44 + 2 7 + 9 [7 + 3] 13 + 0 9 + 1 16 + 2 
+dataset/Dataset/data/6848793/table_4|1|123|самолет|И-15бис И-16 И-153 ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 
+dataset/Dataset/data/6848794/table_4|1|123|самолет|И-15бис И-16 И-153 ЛаГГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 
+dataset/Dataset/data/6848820/table_1|1|123|самолет|282 
+dataset/Dataset/data/6848820/table_1|2|123|самолет|287 
+dataset/Dataset/data/6848823/table_1|2|123|самолет|287 
+dataset/Dataset/data/6848823/table_1|1|123|самолет|282 
+dataset/Dataset/data/6848827/table_2|1|123|самолет|251 
+dataset/Dataset/data/6848827/table_2|2|123|самолет|251 
+dataset/Dataset/data/6848830/table_2|2|123|самолет|251 
+dataset/Dataset/data/6848830/table_2|1|123|самолет|251 
+dataset/Dataset/data/6848831/table_1|2|123|самолет|7 + 1 14 + 3 5 + 4 7 + 0 19 + 5 6 + 4 17 + 8 8 + 6 21 + 7 16 + 3 16 + 8 6 + 3 8 + 2 7 + 0 6 + 0 19 + 0 7 + 1 (10 + 1) 5 + 1 (+ 1 аэростат) 10 + 4 16 + 2 7 + 0 5 + 0 6 + 0 15 + 4 
+dataset/Dataset/data/6848847/table_1|1|123|самолет|241 
+dataset/Dataset/data/6848847/table_1|2|123|самолет|288 
+dataset/Dataset/data/6848848/table_1|1|123|самолет|241 
+dataset/Dataset/data/6848848/table_1|2|123|самолет|288 
+dataset/Dataset/data/6848850/table_2|0|123|самолет|143 
+dataset/Dataset/data/6848852/table_1|1|123|самолет|161 
+dataset/Dataset/data/6848852/table_1|2|123|самолет|164 
+dataset/Dataset/data/6848871/table_1|1|123|самолет|359 
+dataset/Dataset/data/6848871/table_1|2|123|самолет|359 
+dataset/Dataset/data/6848876/table_1|2|123|самолет|359 
+dataset/Dataset/data/6848876/table_1|1|123|самолет|359 
+dataset/Dataset/data/6848883/table_2|0|123|самолет|132 
+dataset/Dataset/data/6848892/table_2|0|123|самолет|89 
+dataset/Dataset/data/6848921/table_2|0|123|самолет|174 
+dataset/Dataset/data/6848928/table_1|1|123|самолет|213 
+dataset/Dataset/data/6848928/table_1|2|123|самолет|219 
+dataset/Dataset/data/6848960/table_5|1|123|самолет|И-16, И-15 бис, Як-1 Як-7Б P-51 Як-3 Як-7 Як-9, МиГ-9 МиГ-15 МиГ-17 МиГ-21БИС, в 3-й аэ МиГ-21БИС-М с 1980 г. С 1982 г. МиГ-21СМ, в 3-й аэ 1 с-т МиГ-21СМТ МиГ-27 Д, К (МиГ-27К — 1-я аэ, МиГ-27Д — 2-я аэ и 3-я аэ) Су-25 Су-25СМ 
+dataset/Dataset/data/6848966/table_2|0|123|самолет|99 
+dataset/Dataset/data/6848966/table_4|0|123|самолет|18 
+dataset/Dataset/data/6848970/table_1|1|123|самолет|407 
+dataset/Dataset/data/6848970/table_1|2|123|самолет|427 
+dataset/Dataset/data/6848970/table_2|0|123|самолет|99 
+dataset/Dataset/data/6848970/table_4|0|123|самолет|18 
+dataset/Dataset/data/6848980/table_2|0|123|самолет|169 
+dataset/Dataset/data/6848989/table_4|1|123|самолет|И-16, И-15 бис И-16, И-15 бис, И-153 И-16, И-15 бис, И-153, МиГ-3 Як-1 Як-9, Як-9У МиГ-15 МиГ-17 МиГ-21 МиГ-23 МиГ-29 МиГ-29СМТ, Су-30СМ Су-30СМ 
+dataset/Dataset/data/6848993/table_4|1|123|самолет|И-16, И-15 бис И-16, И-15 бис, И-153 И-16, И-15 бис, И-153, МиГ-3 Як-1 Як-9, Як-9У МиГ-15 МиГ-17 МиГ-21 МиГ-23 МиГ-29 МиГ-29СМТ, Су-30СМ Су-30СМ 
+dataset/Dataset/data/6848996/table_4|1|123|самолет|И-16, И-15 бис И-16, И-15 бис, И-153 И-16, И-15 бис, И-153, МиГ-3 Як-1 Як-9, Як-9У МиГ-15 МиГ-17 МиГ-21 МиГ-23 МиГ-29 МиГ-29СМТ, Су-30СМ Су-30СМ 
+dataset/Dataset/data/6849000/table_4|1|123|самолет|И-16, И-15 бис И-16, И-15 бис, И-153 И-16, И-15 бис, И-153, МиГ-3 Як-1 Як-9, Як-9У МиГ-15 МиГ-17 МиГ-21 МиГ-23 МиГ-29 МиГ-29СМТ, Су-30СМ Су-30СМ 
+dataset/Dataset/data/6849001/table_4|1|123|самолет|И-16, И-15 бис И-16, И-15 бис, И-153 И-16, И-15 бис, И-153, МиГ-3 Як-1 Як-9, Як-9У МиГ-15 МиГ-17 МиГ-21 МиГ-23 МиГ-29 МиГ-29СМТ, Су-30СМ Су-30СМ 
+dataset/Dataset/data/6849031/table_1|2|123|самолет|10+1 5 + 1 8 + 3 5 + 4 5 + 2 6 + 2 12 + 1 9 + 6 21 + 7 14 + 2 34 + 4 10 16 + 10 6 7 + 3 18 + 4 3 + 3 27 + 2 14 6 
+dataset/Dataset/data/6849031/table_3|0|123|самолет|61 
+dataset/Dataset/data/6849039/table_4|0|123|самолет|45 
+dataset/Dataset/data/6849039/table_4|2|123|самолет|14 
+dataset/Dataset/data/6849053/table_4|4|123|самолет|10 
+dataset/Dataset/data/6849053/table_4|2|123|самолет|108 
+dataset/Dataset/data/6849056/table_3|0|123|самолет|155 
+dataset/Dataset/data/6849070/table_2|0|123|самолет|204 
+dataset/Dataset/data/6857910/table_1|2|123|самолет|(Ла-5, Ла-7, Ла-9, Ла-11) (Ла-5, Ла-7, Ла-9, Ла-11, МиГ-15) (Ла-5, Ла-7, Ла-9, Ла-11, МиГ-15) (Як-9У, МиГ-15) 
+dataset/Dataset/data/6857913/table_3|1|123|самолет|131 
+dataset/Dataset/data/6861412/table_2|0|123|самолет|95 
+dataset/Dataset/data/6861576/table_1|2|123|самолет|258 
+dataset/Dataset/data/6861576/table_1|1|123|самолет|242 
+dataset/Dataset/data/6861576/table_3|1|123|самолет|ЛаГГ-3 Як-1 Як-3 Кингкобра МиГ-15 МиГ-17 
+dataset/Dataset/data/6861755/table_2|0|123|самолет|94 
+dataset/Dataset/data/6861757/table_1|2|123|самолет|47 
+dataset/Dataset/data/6861757/table_1|1|123|самолет|43 
+dataset/Dataset/data/6861783/table_1|1|123|самолет|58 
+dataset/Dataset/data/6861783/table_1|2|123|самолет|111 
+dataset/Dataset/data/6864045/table_7|1|123|самолет|62 
+dataset/Dataset/data/6864045/table_7|0|123|самолет|416 
+dataset/Dataset/data/6864056/table_7|0|123|самолет|416 
+dataset/Dataset/data/6864056/table_7|1|123|самолет|62 
+dataset/Dataset/data/6864298/table_2|1|123|самолет|Пе-3 Пе-2 СБ 
+dataset/Dataset/data/6864403/table_1|2|123|самолет|244 
+dataset/Dataset/data/6864404/table_1|1|123|самолет|213 
+dataset/Dataset/data/6864404/table_1|2|123|самолет|244 
+dataset/Dataset/data/6864440/table_2|0|123|самолет|181 
+dataset/Dataset/data/6864559/table_6|1|123|самолет|Варнемюнде, Германия Ключево, Польша Колобжег, Польша Бжег, Польша Смоленск-Северный, Смоленская область 
+dataset/Dataset/data/6864573/table_1|1|123|самолет|306 
+dataset/Dataset/data/6864658/table_1|1|123|самолет|247 
+dataset/Dataset/data/6864659/table_3|1|123|самолет|И-16 МиГ-3 Як-1 Як-7б Як-3 P-63 Kingcobra МиГ-15 МиГ-17 МиГ-21 ПФ, ПФМ МиГ-23 М МиГ-29 
+dataset/Dataset/data/6864668/table_3|1|123|самолет|МиГ-3 Як-1 Як-7 Як-3 Як-9 Bell P-63 Kingcobra МиГ-15 бис МиГ-17 
+dataset/Dataset/data/6864739/table_3|1|123|самолет|МиГ-3 Ла-5 Ла-7 МиГ-15 МиГ-17 Як-28П Су-15ТМ 
+dataset/Dataset/data/6867282/table_2|2|123|самолет|243 
+dataset/Dataset/data/6867282/table_2|1|123|самолет|226 
+dataset/Dataset/data/6867282/table_4|1|123|самолет|И-153 ЛаГГ-3 Як-1 Як-9 
+dataset/Dataset/data/6867360/table_5|0|123|самолет|120 
+dataset/Dataset/data/6867489/table_3|1|123|самолет|193 
+dataset/Dataset/data/6867491/table_5|1|123|самолет|ЛаГГ-3 Ла-5 Ла-7 
+dataset/Dataset/data/6867492/table_4|0|123|самолет|65 
+dataset/Dataset/data/6867494/table_5|1|123|самолет|ЛаГГ-3 Ла-5 Ла-7 
+dataset/Dataset/data/6867742/table_2|1|123|самолет|262 
+dataset/Dataset/data/6867742/table_2|2|123|самолет|268 
+dataset/Dataset/data/6867744/table_2|2|123|самолет|268 
+dataset/Dataset/data/6867744/table_2|1|123|самолет|262 
+dataset/Dataset/data/6867745/table_2|2|123|самолет|268 
+dataset/Dataset/data/6867745/table_2|1|123|самолет|262 
+dataset/Dataset/data/6867759/table_2|2|123|самолет|234 
+dataset/Dataset/data/6867759/table_2|1|123|самолет|184 
+dataset/Dataset/data/6867764/table_1|2|123|самолет|267 (+ 2 аэростата) 
+dataset/Dataset/data/6867764/table_1|3|123|самолет|282 
+dataset/Dataset/data/6867790/table_5|1|123|самолет|Варнемюнде, Германия Виттшток, Германия Пила, Польша Гроссенхайн, Германия Калинов, Украина. 
+dataset/Dataset/data/6867822/table_3|1|123|самолет|И-15 бис И-16 Як-7Б, Як-9 Як-3, Як-9 
+dataset/Dataset/data/6867826/table_0|1|123|самолет|И-15бис Як-9 МиГ-15 
+dataset/Dataset/data/6867826/table_0|4|123|самолет|И-16 Як-9 У, М. Т, Д МиГ-17 
+dataset/Dataset/data/6902762/table_1|1|123|самолет|Robinson R44, Sud-Aviation Gazelle 
+dataset/Dataset/data/6902762/table_1|0|123|самолет|Як-52, Як-18Т, АН-2, Cessna 152, Cessna-150 Aerobat, Cessna 172, Cessna 182, Cessna 177, Cessna 210, Cessna 337, Cessna 185, Socata Rallye, Socata TB9, Socata TB20, Diamond DA20, Piper Cub, Piper PA-25 Pawnee, Piper Cherokee, Piper Malibu, Л-42М, Beeachcraft King Air B200, Hornet, Tundra, Extra EA-300, DHC-2 Beaver 
+dataset/Dataset/data/7001249/table_2|3|123|самолет|Schempp-Hirth Nimbus-4[en] Breitling Orbiter[en] 
+dataset/Dataset/data/7029980/table_4|6|123|самолет|CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 CR.32 
+dataset/Dataset/data/7153948/table_2|0|123|самолет|135 
+dataset/Dataset/data/722740/table_0|2|123|самолет|B-2 C-5 Ан-225 Мрия Ту-16 Ил-86 L-29 Handley Page Victor C-17 Me 262 Як-40 Ту-134 Ил-28 Boeing 737—400 XB-70A Valkyrie SkyRanger (Rotax 582) B-66 Ту-154 Sukhoi Superjet 100 A-10 Ту-160 B-1B Concorde F-86 SR-71 Blackbird Ту-22 Як-42 Ту-22М Lockheed F-117 Nighthawk МиГ-25П Ан-124 Gloster Meteor Dassault Mirage IV Су-25ТМ B-52 МиГ-15бис Panavia Tornado F-100 Hawker Hunter Су-24 SEPECAT Jaguar F-111 English Electric Lightning Су-17М4 Су-7БКЛ F-106 Су-34 Gloster Javelin МиГ-21бис МиГ-31 МиГ-19С F-4 МиГ-23МЛД F-35A F-14 Dassault Mirage 2000C B-58 JAS 39 Gripen F/A-18 Dassault Rafale F-16 Fighting Falcon F-15 Eagle Су-27 F-22 Raptor Hawker Siddeley Harrier Eurofighter Typhoon МиГ-29 Су-35С Су-57 Як-141 П-42 
+dataset/Dataset/data/7371967/table_2|6|123|самолет|Zivko Edge 540 Zivko Edge 540 Zivko Edge 540 Zivko Edge 540 Zivko Edge 540 Zivko Edge 540 Zivko Edge 540 Zivko Edge 540 
+dataset/Dataset/data/7720847/table_1|1|123|самолет|339 
+dataset/Dataset/data/7720847/table_1|2|123|самолет|341 
+dataset/Dataset/data/7720847/table_4|1|123|самолет|ЛаГГ-3 Ла-5 Ла-7 МиГ-15УТИ МиГ-17 Су-9 МиГ-23М 
+dataset/Dataset/data/7721625/table_2|0|123|самолет|1 
+dataset/Dataset/data/7734898/table_2|0|123|самолет|111 
+dataset/Dataset/data/8076960/table_0|0|123|самолет|Dornier 228 Bombardier Dash 8-100 
+dataset/Dataset/data/8134475/table_0|2|123|самолет|7 + 5 9 + 3 
+dataset/Dataset/data/8144611/table_3|0|123|самолет|131 
+dataset/Dataset/data/8147021/table_2|0|123|самолет|59 
+dataset/Dataset/data/8147031/table_0|2|123|самолет|6 + 4 
+dataset/Dataset/data/8149560/table_2|0|123|самолет|161 
+dataset/Dataset/data/8153664/table_0|2|123|самолет|9 + 10 6 + 1 6 + 3 7 + 7 8 + 5 
+dataset/Dataset/data/8161609/table_0|2|123|самолет|5 + 2 5 + 1 10 + 1 
+dataset/Dataset/data/8210711/table_0|0|123|самолет|ATR 42-500 ATR 72-600 Britten-Norman Islander de Havilland Canada DHC-6-310 Twin Otter Viking Air DHC-6-400 Twin Otter Embraer ERJ-135 Embraer ERJ-145 Saab 340B Saab 2000 ATR 72-500 Saab 340AF Saab 340BF Всего 
+dataset/Dataset/data/8422477/table_0|2|123|самолет|13 + 4 6 + 0 5 + 2 9 + 2 12 + 0 
+dataset/Dataset/data/8422478/table_0|2|123|самолет|13 + 4 6 + 0 5 + 2 9 + 2 12 + 0 
+dataset/Dataset/data/8425422/table_0|2|123|самолет|9 + 1 
+dataset/Dataset/data/8431648/table_0|2|123|самолет|6 + 2 9 + 3 6 + 0 
+dataset/Dataset/data/8463138/table_2|2|123|самолет|216 
+dataset/Dataset/data/8463138/table_2|1|123|самолет|190 
+dataset/Dataset/data/8663719/table_2|1|123|самолет|Ил-2 Ил-10 
+dataset/Dataset/data/8891767/table_0|2|123|самолет|Як-38 Як-38 с/н 0903 Як-38 с/н 0304 Як-38 с/н 0603 Як-38 с/н 0203 Як-38 с/н ???? Як-38У с/н ???? Як-38У с/н 0203 Як-38 с/н ???? Як-38У с/н 0303 Як-38 с/н 0606 Як-38 с/н 0408 Як-38 с/н 0207 Як-38 с/н 0209 Як-38 с/н ???? Як-38 с/н ???? Як-38 с/н ???? Як-38 с/н ???? Як-38 с/н ???? Як-38 с/н 0709 Як-38 с/н ???? Як-38 с/н 0514 Як-38У с/н ???? ? Як-38М изделие 82-1 Як-38 ? с/н ???? Як-38У с/н ???? Як-38У с/н ???? Як-38М с/н ???? Як-38 с/н ???? Як-38У с/н ???? Як-38М с/н ???? Як-38 с/н ???? Як-38 с/н ???? Як-38 с/н ???? Як-38 с/н 0315 Як-38 ? с/н ???? 

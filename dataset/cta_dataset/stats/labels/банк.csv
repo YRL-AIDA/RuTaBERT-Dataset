@@ -1,8 +1,5 @@
 table_id|column_id|label_id|label|column_data
-dataset/Dataset/data/660111/table_1|0|10|банк|JPMorgan Chase Bank of America Citigroup Wells Fargo 
-dataset/Dataset/data/753458/table_8|0|10|банк|Банк Ботсваны Банк Гайаны Банк Негара Малайзия Валютное управление Каймановых островов Центральный банк Сан-Томе и Принсипи Центральный банк Багамских островов Национальный банк Дании Центральный банк Арубы 
-dataset/Dataset/data/506557/table_0|1|10|банк|1970 Budapest, Vaci ut.188, H-1138, Hungary Болгария, Венгрия, Куба, Чехия, Монголия, Румыния, Словакия, Россия, Вьетнам Николай Косов €2000 млн €349,61 €1276 млн Moody's: А3; Fitch: BBB+; Dagong: A; S&P Global Ratings: А- http://www.iib.int 
-dataset/Dataset/data/2897248/table_1|1|10|банк|Сбербанк России ВТБ Газпромбанк Альфа-банк Россельхозбанк Московский кредитный банк Промсвязьбанк Открытие Совкомбанк Райффайзенбанк 
-dataset/Dataset/data/2698857/table_19|2|10|банк|998000 рублей 364000 рублей 272000 рублей 210000 рублей 34000 рублей 
-dataset/Dataset/data/94809/table_8|0|10|банк|Банк Ботсваны Банк Гайаны Банк Негара Малайзия Валютное управление Каймановых островов Центральный банк Сан-Томе и Принсипи Центральный банк Багамских островов Национальный банк Дании Центральный банк Арубы 
-dataset/Dataset/data/3241912/table_0|0|10|банк|A B C D E F G H I J K 
+dataset/Dataset/data/245030/table_0|1|10|банк|Mitsubishi Bank (до 1996)Bank of Tokyo-Mitsubishi (1996—2006)Mitsubishi UFJ Bank (2006 —) Mitsui Bank (до 1990)Sakura Bank (1990—2001)Sumitomo Mitsui Bank (2001 —), Sony Bank Sumitomo Bank (до 2001)Sumitomo Mitsui Bank (2001 —) Fuji Bank (до 2000)Mizuho Bank (2000 —)Yasuda Trust and BankingYamaichi Securities Dai-Ichi Kangyo Bank (до 2000)Mizuho Bank (2000 —)Kankaku SecuritiesOrient Group Sanwa Bank (до 2002)UFJ Bank (2002—2006)Mitsubishi UFJ Bank (2006 —) Tokai BankChuo Trust Industrial Bank of Japan, New Japan SecuritiesWako SecuritiesIBJ Securities 
+dataset/Dataset/data/2939732/table_9|0|10|банк|Банк Англии Немецкий Бундесбанк Европейский центральный банк Банк Италии Банк Канады Банк России ФРС США Банк Франции Банк Японии 
+dataset/Dataset/data/333461/table_1|1|10|банк|Сбербанк России ВТБ Газпромбанк Альфа-банк Россельхозбанк Московский кредитный банк Промсвязьбанк Открытие Совкомбанк Райффайзенбанк 
+dataset/Dataset/data/475952/table_1|1|10|банк|Банк Швеции Банк Англии Банк Испании Банк Франции Банк Финляндии Нидерландский банк Национальный банк Австрии Норвежский банк Национальный банк Дании Центральный банк Кюрасао и Синт-Мартена 
