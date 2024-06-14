@@ -1,5 +1,3 @@
-#include <boost/algorithm/string.hpp>
-#include <boost/algorithm/string/replace.hpp>
 #include <fstream>
 #include <iostream>
 #include <string>
@@ -7,9 +5,44 @@
 #include <filesystem>
 #include <omp.h>
 #include <thread>
+#include <algorithm>
 
 
 const std::string SEP = "⇧";
+
+void split(std::vector<std::string> & to, const std::string & from, const char & sep){
+    std::string tmp;
+    std::stringstream strm(from);
+    while(getline(strm, tmp, sep)){
+        to.push_back(tmp);
+    }
+}
+
+void replaceAll(std::string & source, const std::string & from, const std::string & to){
+    std::string tmp;
+
+    size_t lastPos = 0;
+    size_t findPos;
+
+    while(std::string::npos != (findPos = source.find(from, lastPos)))
+    {
+        tmp.append(source, lastPos, findPos - lastPos);
+        tmp += to;
+        lastPos = findPos + from.length();
+    }
+    tmp += source.substr(lastPos);
+
+    source.swap(tmp);
+}
+
+void trim(std::string & s){
+    size_t start, end;
+    for (start = 0; s[start] == ' '; ++start) {}
+    for (end = s.length() - 1; s[end] == ' '; --end) {}
+    std::string newString = s.substr(start, (++end - start));
+    s.swap(newString);
+}
+
 
 void create_files_list(std::vector<std::string> & file_names, std::string labelled_headers_filename)
 {
@@ -52,7 +85,7 @@ void collect(const std::vector<std::string> & file_names)
     #pragma omp for schedule(dynamic)
     for (int i = 0; i < file_names.size(); i++) {
         std::vector<std::string> temp;
-        boost::split(temp, file_names[i], boost::is_any_of(";"));
+        split(temp, file_names[i], ';');
         const std::string table_id = temp[0];
         const std::string col_id = temp[1];
 
@@ -64,8 +97,8 @@ void collect(const std::vector<std::string> & file_names)
         // skip header    
         // TODO: improve somehow, dont like
         std::getline(table, table_row);
-        boost::replace_all(table_row, "[править | править код]", "");
-        boost::replace_all(table_row, "\"", "");
+        replaceAll(table_row, "[править | править код]", "");
+        replaceAll(table_row, "\"", "");
         if (std::count(table_row.begin(), table_row.end(), '|') < 1) {
             std::getline(table, table_row);
         }
@@ -73,22 +106,22 @@ void collect(const std::vector<std::string> & file_names)
         std::string column_data = "";
         while (std::getline(table, table_row)) {
             // TODO: if empty skip do not add to data
-            boost::replace_all(table_row, "[править | править код]", "");
+            replaceAll(table_row, "[править | править код]", "");
             if (std::count(table_row.begin(), table_row.end(), '|') < 1) {
                 continue;
             }
                 
             std::vector<std::string> cells;
-            boost::split(cells, table_row, boost::is_any_of("|"));
+            split(cells, table_row, '|');
 
             std::string cur_cell = cells[std::stoi(col_id)];
-            boost::trim(cur_cell);
+            trim(cur_cell);
 
             if (!cur_cell.empty() and cur_cell != " " and cur_cell != "\n" and cur_cell.find_first_not_of(' ') != std::string::npos) {
                 // TODO: add length check
                 bool ok = false;
                 for (auto cell: cells) {
-                    boost::trim(cell);
+                    trim(cell);
                     if (cell != cur_cell) {
                         ok = true;
                         break;
