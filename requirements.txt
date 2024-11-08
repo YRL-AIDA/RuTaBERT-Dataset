@@ -97,7 +97,7 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.12.0
 ru-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ru_core_news_sm-3.7.0/ru_core_news_sm-3.7.0-py3-none-any.whl#sha256=4b1c291c9b8991b708dadbf1b59f0fdaf7e70ca25e94df7fd3d523c4d5049754
-scikit-learn==1.3.2
+scikit-learn==1.5.0
 scipy==1.11.3
 Send2Trash==1.8.2
 six==1.16.0
