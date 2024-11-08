@@ -31,7 +31,7 @@ fastjsonschema==2.18.1
 fonttools==4.44.0
 fqdn==1.5.1
 gensim==4.3.2
-idna==3.4
+idna==3.7
 ipykernel==6.26.0
 ipython==8.17.2
 isoduration==20.11.0
