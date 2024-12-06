@@ -159,15 +159,24 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# --- My files ---
+
+# ----- Custom ignored files -----
 
 dataset/labelling/labelled/arch/*
+dataset/.vscode
+
+# Binaries
+dataset/collecting/bin/*
+!dataset/collecting/bin/README.md
+
+# Cached dataset filenames
+dataset/collecting/filenames
+dataset/collecting/csv_filenames
 
 # CSVs
 dataset/research/cleansed/*.csv
 dataset/research/lemmatized/*.csv
-dataset/collecting/columns_headers/*.csv
-dataset/collecting/columns_data/*.csv
+dataset/collecting/data/*/*.csv
 dataset/labelling/labelled/*csv
 dataset/cta_dataset/cta_dataset.csv
 
@@ -177,10 +186,3 @@ dataset/dataset
 collecting/columns_data/data.zip
 cta_dataset/cta_dataset.zip
 
-
-# Compiled cpp files
-dataset/collecting/collect_columns_from_dataset
-dataset/collecting/collect_columns_data
-
-# Dataset
-dataset/cta_dataset/dataset/cta_dataset.csv
