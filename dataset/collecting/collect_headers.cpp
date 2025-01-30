@@ -10,7 +10,9 @@
 #include <thread>
 #include <filesystem>
 
-using namespace rapidjson;
+// using namespace rapidjson;
+#include <rapidjson/document.h>
+#include <rapidjson/filereadstream.h>
 
 
 const std::string SEP = "⇧";
@@ -23,7 +25,7 @@ void create_files_list(std::vector<std::string> & file_names)
      * Результат в векторе file_names. Последовательная ф-ция
      */
     
-    std::string path = "../dataset/Dataset/data";
+    std::string path = "../../../ru-wiki-tables-dataset/Dataset/data/";
 
     std::vector<std::string> dir_names;
     for (const auto & dir_name : std::filesystem::directory_iterator(path)) {
@@ -46,7 +48,7 @@ void create_files_list(std::vector<std::string> & file_names)
 
             bool is_table_meta_info = std::regex_match(
                 file_name,
-                std::regex("(.)+table_(.)+_meta\.json")
+                std::regex("(.)+table_(.)+_meta\\.json")
             );
 
             if (is_table_meta_info) {
@@ -123,7 +125,7 @@ void thread_function(const std::vector<std::string> & files_list)
     }
     // std::cout << "thread_id: " << thread_id << " / done" << std::endl;
 
-    std::ofstream out("columns_headers/headers_" + std::to_string(thread_id) + ".csv");
+    std::ofstream out("data/headers/data_" + std::to_string(thread_id) + ".csv");
     out << "table_id" + SEP + "column_id" + SEP + "column_name" << std::endl;
     for (auto i : rows) {
         out << i << std::endl;

@@ -179,6 +179,7 @@ dataset/research/lemmatized/*.csv
 dataset/collecting/data/*/*.csv
 dataset/labelling/labelled/*csv
 dataset/cta_dataset/cta_dataset.csv
+dataset/preprocessed/*.csv
 
 # Large files
 dataset/dataset.zip

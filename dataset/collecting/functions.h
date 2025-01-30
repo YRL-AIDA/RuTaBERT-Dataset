@@ -103,3 +103,19 @@ size_t count (const std::string & table_row, const char delimiter) {
     }
     return cnt_delimiter;
 }
+
+std::string trim (std::string s) {
+    int start_id = 0;
+    int end_id = s.size() - 1;
+
+    while (true) {
+        if (isspace(s[start_id])) {
+            start_id++;
+        }
+        if (isspace(s[end_id])) {
+            end_id--;
+        }
+        if (isspace(s[start_id]) && isspace(s[end_id])) break;
+    }
+    return s.substr(start_id, end_id - start_id + 1);
+}

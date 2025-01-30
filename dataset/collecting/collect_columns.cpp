@@ -1,5 +1,5 @@
-#include <boost/algorithm/string.hpp>
-#include <boost/algorithm/string/replace.hpp>
+// #include <boost/algorithm/string.hpp>
+// #include <boost/algorithm/string/replace.hpp>
 #include <fstream>
 #include <iostream>
 #include <string>
@@ -7,6 +7,8 @@
 #include <filesystem>
 #include <omp.h>
 #include <thread>
+
+#include <functions.h>
 
 
 const std::string SEP = "⇧";
@@ -48,14 +50,15 @@ void collect(const std::vector<std::string> & file_names)
 
     std::ofstream output("columns_data/data_" + std::to_string(thread_id) + ".csv");
     output << "table_id" + SEP + "column_id" + SEP + "column_data" << std::endl;
+    std::string rwt_path = "";
 
     #pragma omp for schedule(dynamic)
     for (int i = 0; i < file_names.size(); i++) {
-        std::vector<std::string> temp;
-        boost::split(temp, file_names[i], boost::is_any_of(";"));
+        std::vector<std::string> temp = split(file_names[i], ';');
         const std::string table_id = temp[0];
         const std::string col_id = temp[1];
 
+        // todo: why ../ ???
         const std::string & file_name = "../" + temp[0] + ".csv";
 
         std::ifstream table(file_name);
@@ -64,8 +67,8 @@ void collect(const std::vector<std::string> & file_names)
         // skip header    
         // TODO: improve somehow, dont like
         std::getline(table, table_row);
-        boost::replace_all(table_row, "[править | править код]", "");
-        boost::replace_all(table_row, "\"", "");
+        replace_all(table_row, "[править | править код]", "");
+        replace_all(table_row, "\"", "");
         if (std::count(table_row.begin(), table_row.end(), '|') < 1) {
             std::getline(table, table_row);
         }
@@ -73,22 +76,21 @@ void collect(const std::vector<std::string> & file_names)
         std::string column_data = "";
         while (std::getline(table, table_row)) {
             // TODO: if empty skip do not add to data
-            boost::replace_all(table_row, "[править | править код]", "");
+            replace_all(table_row, "[править | править код]", "");
             if (std::count(table_row.begin(), table_row.end(), '|') < 1) {
                 continue;
             }
                 
-            std::vector<std::string> cells;
-            boost::split(cells, table_row, boost::is_any_of("|"));
+            std::vector<std::string> cells = split(table_row, '|');
 
             std::string cur_cell = cells[std::stoi(col_id)];
-            boost::trim(cur_cell);
+            cur_cell = trim(cur_cell);
 
             if (!cur_cell.empty() and cur_cell != " " and cur_cell != "\n" and cur_cell.find_first_not_of(' ') != std::string::npos) {
                 // TODO: add length check
                 bool ok = false;
                 for (auto cell: cells) {
-                    boost::trim(cell);
+                    cell = trim(cell);
                     if (cell != cur_cell) {
                         ok = true;
                         break;
